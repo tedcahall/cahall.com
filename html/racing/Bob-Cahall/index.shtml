@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Bob Cahall - SCCA Racing - Spec Miata - cahall.com</title>
+<meta content="Bob Cahall Spec Miata - SCCA Club Racing " name="description" />
+<meta content="Bob Cahall, Bob Cahall, SCCA Club Racing, Summit Point" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>Bob Cahall - SCCA Club Racing</h1>
+<div class="content">
+<img src="Bob-Cahall-Racing-2011-crop.jpg" width="200" align="right" alt="Gavin Hall and Bob Cahall"/>
+In the Spring of 2011, Bob Cahall attended SCCA Club Racing Driver's School with the support of 
+the <a href="http://www.meatheadracing.com/">Meathead Racing</a> team in the Washington DC region at Summit Point.
+Gavin Hall, also attended the training session.
+(<a href="http://www.facebook.com/album.php?aid=9348&id=100002285267200&l=d6a84334f5">photos on Facebook</a>)
+</p> 
+<p>
+In the first day, Bob had his first "off-track" experience including a tire wall and landing on his roof (see photo below).  While that almost never occurs during the regular season, there were at least four different cars on their roofs during the three day training period (only 1 for Bob and 0 for Gavin).  That may be a driver school record.  It is amazing how much these drivers improve by the time they graduate.  None of the drivers were injured - which is a testament to how good the safety equipment really is.
+</p>
+<p>
+Bob refrained from damaging the body of his replacement car but did manage to over rev the engine to the point that he had to pay the replacement cost for it.  Gavin also had a minor fender-bender when another racer got loose and the unavoidable contact occurred.  Unfortunately, Gavin also over revved the engine.  Missing a shift can be damn expensive.
+<p>
+Needless to say, both Bob and Gavin passed the driver school training and are proud owners of SCCA Club Racing Novice Permits and are eligible for wheel-to-wheel competition in the SCCA. If they successfully complete two races without incident (finish the race rubber side down), they will be granted their regional club racing licenses. Bob now joins his brothers <a href="/racing/Larry-Cahall/">Larry</a> and Ted Cahall in the world of Spec Miata Club Racing.
+Bob has since repaired the damage to his car and <a href="http://cahallracing.net/cars/bob-92/">added a new paint job and number</a>.
+</p> 
+<p align="center">
+<img src="bob-upside-down-640.jpg" width="640" alt="Summit Point Driver School">
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

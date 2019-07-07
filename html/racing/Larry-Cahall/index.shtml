@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Larry Cahall's Spec Miata - cahall.com</title>
+<meta content="Larry Cahall Spec Miata - SCCA Club Racing " name="description" />
+<meta content="Larry Cahall, Larry Cahall, SCCA Club Racing, Summit Point" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>Larry Cahall's Spec Miata</h1>
+<div class="content">
+<img src="larry-cahall-marrs11-2010.jpg" width="200" align="right" style="margin-left:6px;" alt="Larry Cahall in MARRS 11"/>
+Larry Cahall is an SCCA Club Racing enthusiast that drives as part of the <a href="http://www.meatheadracing.com/">Meathead Racing</a> team in the Washington DC region at Summit Point.  Larry obtained his SCCA Club Racing Regional Competition License after he completed <a href="/racing/2010/MARRS-1/">MARRS 1</a> and <a href="/racing/2010/MARRS-4/">MARRS 4</a> in 2010.  He also obtained his National Competition License after completing 6 races total for 2010. His goal is to race the fabled Watkins Glen in 2011.
+
+<p>At the beginning of 2010, Larry had the graphics on his car upgraded.  He had a minor fender bender before MARRS 4 in the practice session which <a href="http://rides.webshots.com/album/577887160aoMIXy">he captured with his camera</a>.
+Larry Cahall (right) and his brother Ted (left) are pictured below.
+
+<p align="center">
+<img src="http://cahall.com/i/ted-cahall-and-larry-cahall-p2l.jpg" alt="Larry Cahall and Ted Cahall">
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

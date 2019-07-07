@@ -1,0 +1,8 @@
+rewriteengine on
+rewritecond %{HTTP_HOST} ^www.cahall.com$ [OR]
+rewritecond %{HTTP_HOST} ^cahall.com$
+rewriterule ^racing\/SCCA\/2012(.*)$ "http\:\/\/cahall\.com\/racing\/2012\/SCCA$1" [R=301,L] #4f4514f4287a3
+rewritecond %{HTTP_HOST} ^cahall.com$
+rewriterule ^job-redirect(.*)$ "http\:\/\/digitalriver\.com\/executive-leadership$1" [R=301,L] #4cd5410c7dd45
+rewritecond %{HTTP_HOST} ^www.cahall.com$
+rewriterule ^(.*)$ "http\:\/\/cahall\.com$1" [R=301,L] #4b51ec4451834

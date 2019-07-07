@@ -1,0 +1,87 @@
+<html>
+<head>
+<title>Ted Cahall World Class Driving Tour - cahall.com</title>
+<meta content="Ted Cahall took the World Class Driving Tour and drove a: Lamborghini Gallardo, Callaway C16 Corvette, Auti R8, Alfa-Romeo 8C, and a Ford GT near Richmond. VA.  This was his first event with World Class Driving as he later attended their 200MPH Xtereme Event." name="description" />
+<meta content="Ted Cahall, Ted Cahall, World Class Driving Tour" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>Ted Cahall Takes the World Class Driving Tour</h1>
+<div class="content">
+Ted Cahall participated in the <a href="http://worldclassdriving.com/"> World Class Driving</a> tour on May 21st 2009.  The event
+featured five exotic cars and is <a href="http://wordpress.tedcahall.com/2009/05/22/ted-cahall-world-class-driving-tour/"> covered on his
+blog</a>.  It was a fantastic day including rides in each of:
+</div>
+<div class="picture-gallery">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ul>
+<li>Audi R8
+<li>Callaway C16 Corvette
+<li>Lamborghini LP560
+<li>Ford GT
+<li>Alfa-Romeo 8C
+</ul>
+</td>
+<td><img src="http://thumb2.webshots.net/t/74/174/0/38/37/2017038370057109642UQUBLP_th.jpg"></td>
+<td><img src="http://thumb2.webshots.net/t/62/762/5/44/70/2614544700057109642ETMvVn_th.jpg"></td>
+<td><img src="http://thumb2.webshots.net/t/75/75/4/86/60/2820486600057109642oaVrRL_th.jpg"></td>
+<td><img src="http://thumb2.webshots.net/t/73/173/7/95/69/2823795690057109642MLRRKX_th.jpg"></td>
+<td><img src="http://thumb2.webshots.net/t/64/664/9/77/45/2897977450057109642wLHPfQ_th.jpg"></td>
+</tr>
+</table>
+</div>
+<div class="content">
+Below is the group photo from that day.  Click <a href="http://rides.webshots.com/album/572319674NEVrNd">here</a>
+it to see other photos from the event.
+<p align="center">
+<a href="http://rides.webshots.com/photo/2808505280057109642VPzlTV">
+<img src="http://inlinethumb18.webshots.com/22737/2808505280057109642S600x600Q85.jpg" 
+alt="Ted Cahall with the World Class Driving group on May 21st 2009"></a>
+</p>
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+</p>
+
+</div>
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+
+</div>
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

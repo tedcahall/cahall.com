@@ -1,0 +1,238 @@
+<html>
+<head>
+<title>Ted Cahall 2013 SCCA Club Racing National Race Results - cahall.com</title>
+<meta content="Ted Cahall 2013 SCCA Club Racing National Race Results" name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2013, SCCA Club Racing, National Race Results, SCCA, Spec Miata, SM" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body>
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<!--#include virtual="/racing/year-submenu.html"-->
+
+<h1>Ted Cahall 2013 National Race Results&nbsp; &nbsp;<img src="/i/scca.gif" width="61" height="25"></h1>
+<div class="content">
+This page tracks all of the National racing events for Ted Cahall in 2013.&nbsp;
+All of these events are sponsored by the SCCA.&nbsp; See <a href="http://cahall.com/racing/2013/SCCA/MARRS/Points/">MARRS events results</a>.
+<br>
+<br>
+
+<table border="1">
+<tr>
+<td><b>Date(s)</b></td><td><b>Event</b></td><td><b>Class</b></td><td><b>Track</b></td><td><b>Finish</b></td><td><b>Pts</b></td><td><b>Fast Lap</b></td><td><b>Comment</b></td>
+</tr>
+
+<tr>
+<td>March 9</td>
+<td>Circuit of The Americas - Race 1</td>
+<td>SM</td>
+<td><a href="http://circuitoftheamericas.com/">CoTA</a></td>
+<td>42 / 73</td>
+<td align="right">-</td>
+<td>2:47.139</td>
+<td>&nbsp;</td>
+</tr>
+
+<tr>
+<td>March 10</td>
+<td>Circuit of The Americas - Race 2</td>
+<td>SM</td>
+<td><a href="http://circuitoftheamericas.com/">CoTA</a></td>
+<td>34 / 69</td>
+<td align="right">-</td>
+<td>2:45.394</td>
+<td>&nbsp;</td>
+</tr>
+
+<tr>
+<td>April 20</td>
+<td>VIR Majors Super Tour - Race 1</td>
+<td>SM</td>
+<td><a href="http://www.virnow.com/">VIR</a></td>
+<td>16 / 45</td>
+<td align="right">4</td>
+<td>2:20.329</td>
+<td>&nbsp;</td>
+</tr>
+
+<tr>
+<td>May 4</td>
+<td>Summit Point Majors - Race 1</td>
+<td>SM</td>
+<td><a href="http://www.summitpoint-raceway.com/">Summit Point</a></td>
+<td>4 / 13</td>
+<td align="right">16</td>
+<td>1:26.536</td>
+<td>Personal Fastest Lap! Fastest lap in race.</td>
+</tr>
+
+<tr>
+<td>May 5</td>
+<td>Summit Point Majors - Race 2</td>
+<td>SM</td>
+<td><a href="http://www.summitpoint-raceway.com/">Summit Point</a></td>
+<td>3 / 12</td>
+<td align="right">17</td>
+<td>1:26.451</td>
+<td>Another personal fastest lap!&nbsp;</td>
+</tr>
+
+<tr>
+<td>June 15</td>
+<td>June Sprints - Race 1</td>
+<td>SM</td>
+<td><a href="http://www.roadamerica.com/">Road America</a></td>
+<td>11 / 36</td>
+<td align="right">10</td>
+<td>2:46.165</td>
+<td><a href="http://scca.cdn.racersites.com/prod/assets/results/13_RA_Race_GP1REV.pdf">Results</a>&nbsp;</td>
+</tr>
+
+<tr>
+<td>June 16</td>
+<td>June Sprints - Race 2</td>
+<td>SM</td>
+<td><a href="http://www.roadamerica.com/">Road America</a></td>
+<td>18 / 38</td>
+<td align="right">3</td>
+<td>2:46.919</td>
+<td>Started last in back-up car. <a href="http://scca.cdn.racersites.com/prod/assets/results/13_RA_Grid_GP1.pdf">Qual</a>, <a href="http://scca.cdn.racersites.com/prod/assets/results/13-RA-SunRace-GP1.pdf">Results</a>&nbsp;</td>
+</tr>
+
+<tr>
+<td>&nbsp;</td>
+<td align="right"><b>Total Points</b>&nbsp;</td>
+<td>SM</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td align="right">50</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+</table>
+
+
+<!-- Tracks
+<td><a href="http://www.poconoraceway.com/">Poconos</a></td>
+<td><a href="http://www.beaverun.com/">BeaveRun</a></td>
+<td><a href="http://www.sebringraceway.com/">Sebring</a></td>
+<td><a href="http://www.summitpoint-raceway.com/">Summit Point</a></td>
+<td><a href="http://www.njmp.com/">NJMP</a></td>
+<td><a href="http://www.nelsonledges.com/">Nelson Ledges</a></td>
+
+-->
+
+<br>
+<br>
+
+<!-- STU Table
+<table border="1">
+<tr>
+<td><b>Date(s)</b></td><td><b>Event</b></td><td><b>Class</b></td><td><b>Track</b></td><td><b>Finish</b></td><td><b>Pts</b></td><td><b>Fast Lap</b></td><td><b>Comment</b></td>
+</tr>
+
+<tr>
+<td>January 8</td>
+<td><a href="/racing/2011/CFR-Double-National/">SE Div - STU National Race #1</a></td>
+<td>STU</td>
+<td><a href="http://www.sebringraceway.com/">Sebring</a></td>
+<td>12 / 25</td>
+<td align="right">-</td>
+<td>2:41.870</td>
+<td>&nbsp;</td>
+</tr>
+
+<tr>
+<td>May 22</td>
+<td><a href="/racing/2011/SPR-National/">NE Div - STU National Race</a></td>
+<td>STU</td>
+<td><a href="http://www.summitpoint-raceway.com/">Summit Point</a></td>
+<td>3 / 4</td>
+<td align="right">8</td>
+<td>1:30.237</td>
+<td>Blew trans - started 4th</td>
+</tr>
+
+<tr>
+<td>August 13</td>
+<td><a href="/racing/2011/Poconos-National/">NE Div - STU National Race #1</a></td>
+<td>STU</td>
+<td><a href="http://www.poconoraceway.com/">Poconos</a></td>
+<td>5 / 6</td>
+<td align="right">6</td>
+<td>2:41.870</td>
+<td>&nbsp;</td>
+</tr>
+
+<tr>
+<td>August 14</td>
+<td><a href="/racing/2011/Poconos-National/">NE Div - STU National Race #2</a></td>
+<td>STU</td>
+<td><a href="http://www.poconoraceway.com/">Poconos</a></td>
+<td>1 / 3</td>
+<td align="right">14</td>
+<td>2:09.762</td>
+<td>Started last/14th, finished 7th / 1st in STU!</td>
+</tr>
+
+
+<tr>
+<td>&nbsp;</td>
+<td align="right"><b>Total Points</b>&nbsp;</td>
+<td>STU</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td align="right">28</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+</table>
+-->
+
+<p>
+<img src="/i2/NESCCAnr-206.jpg" width="206">
+
+<br>
+<p align="center">
+<!--#include virtual="/racing/years-menu.shtml"-->
+</p>
+
+</div>
+
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+
+</body>
+</html>
+

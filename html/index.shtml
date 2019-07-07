@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<title>Ted Cahall - cahall.com</title>
+<meta content="This site is about Ted Cahall, his SCCA Club Racing activities, Corvettes, Harley-Davidsons, snowmobiles, work, and Spec Miatas." name="description" />
+<meta content="Ted Cahall, Ted Cahall, racing, Microsoft, MSN, AOL, CNET, Corvette, Snowmobile, Spec Miata, about" name="keywords" />
+<meta name="google-site-verification" content="_OzezBfIAj9ek5hVDTThgRczbyO2PspLoGJoSkGX1N0" />
+<script>
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length} ;
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+<!--#include virtual="/google.html"-->
+
+<link href="/img/gallery.css" type="text/css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="/cahall-bs.css" />
+<!--#include virtual="bsinclude.html"-->
+</head>
+<body>
+<!--#include virtual="bsmenu.html"-->
+<script>set_tab("home");</script>
+<!--#include virtual="start-page.html"-->
+
+
+<div class="slideshow-container">
+
+<div class="mySlides fade2">
+  <div class="numbertext">1 / 12</div>
+  <img src="/img/img0.jpg" style="width:100%">
+  <div class="text">Ted Cahall followed by driving coach, Todd Lamb</div>
+</div>
+<div class="mySlides fade2">
+  <div class="numbertext">2 / 12</div>
+  <img src="/img/img1.jpg" style="width:100%">
+  <div class="text">Ted Cahall in his 2003 VVT Miata MX-5</div>
+</div>
+<div class="mySlides fade2">
+  <div class="numbertext">3 / 12</div>
+  <img src="/img/img2.jpg" style="width:100%">
+  <div class="text">Ted Cahall in his 2006 MX-5 Cup Car at Watkins Glen</div>
+</div>
+<div class="mySlides fade2">
+  <div class="numbertext">4 / 12</div>
+  <img src="/img/img3.jpg" style="width:100%">
+  <div class="text">Ted Cahall before totaling his car with John Marlar</div>
+</div>
+<div class="mySlides fade2">
+  <div class="numbertext">5 / 12</div>
+  <img src="/img/img4.jpg" style="width:100%">
+  <div class="text">Ted's 2006 MX-5 Cup Car</div>
+</div>
+<div class="mySlides fade2">
+  <div class="numbertext">6 / 12</div>
+  <img src="/img/img5.jpg" style="width:100%">
+  <div class="text">Ted Cahall at Circuit of The Americas (CoTA) with Todd Lamb</div>
+</div>
+<div class="mySlides fade2">
+  <div class="numbertext">7 / 12</div>
+  <img src="/img/img6.jpg" style="width:100%">
+  <div class="text">Ted Cahall at Circuit of The Americas (CoTA) with Todd Lamb</div>
+</div>
+<div class="mySlides fade2">
+  <div class="numbertext">8 / 12</div>
+  <img src="/img/img7.jpg" style="width:100%">
+  <div class="text">Rare photo of Ted Cahall leading a MARRS race</div>
+</div>
+<div class="mySlides fade2">
+  <div class="numbertext">9 / 12</div>
+  <img src="/img/img8.jpg" style="width:100%">
+  <div class="text">Ted Cahall in his Meathead Racing built 99 Miata</div>
+</div>
+<div class="mySlides fade2">
+  <div class="numbertext">10 / 12</div>
+  <img src="/img/img9.jpg" style="width:100%">
+  <div class="text">Some 2014 MARRS action</div>
+</div>
+<div class="mySlides fade2">
+  <div class="numbertext">11 / 12</div>
+  <img src="/img/img10.jpg" style="width:100%">
+  <div class="text">Ted Cahall in his Jim Drago / East Street racing built 99 Miata</div>
+</div>
+<div class="mySlides fade2">
+  <div class="numbertext">12 / 12</div>
+  <img src="/img/img11.jpg" style="width:100%">
+  <div class="text">Ted Cahall in his Blue 99 Miata (new Bad Al Bell car)</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span> 
+  <span class="dot" onclick="currentSlide(7)"></span> 
+  <span class="dot" onclick="currentSlide(8)"></span> 
+  <span class="dot" onclick="currentSlide(9)"></span> 
+  <span class="dot" onclick="currentSlide(10)"></span> 
+  <span class="dot" onclick="currentSlide(11)"></span> 
+  <span class="dot" onclick="currentSlide(12)"></span> 
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+</script>
+
+<p>Cahall.com tracks the racing adventures of 
+<a href="http://cahallracing.com/about-ted-cahall/">Ted Cahall</a> and his brothers 
+<a href="http://cahallracing.com/drivers/Larry-Cahall/">Larry</a> and 
+<a href="http://cahallracing.com/drivers/Bob-Cahall/">Bob</a>. 
+They race on the 
+<a href="http://meatheadracing.com/">Meathead Racing</a> team in both Majors (National) and Regional races as part of 
+<a href="http://www.scca.com/pages/club-racing/">SCCA Club Racing</a>.  
+Their regional races are part of the 
+<a href="http://marrspoints.com">Mid-Atlantic Road Racing Series (MARRS)</a> in the
+<a href="http://www.wdcr-scca.org/">Washington DC region</a> of the 
+<a href="http://www.nediv.com/">Northeast Division</a>. Most National races are part of the 
+<a href="http://www.nediv.com/club-racing/">Northeast Division</a> and 
+<a href="http://sedivracing.org/">Southeast Division</a>.
+</p>
+</div>
+
+<div class="col-sm-7">
+<div id="hp-layout">
+<div id="headerx">
+<!--
+<div id="left-columnx" style="width:480px;float:left;text-align:justify">
+-->
+<h2 class="hp">Cahall.com has been updated to Bootstrap 4.</h2>
+<div class="hpdate">July 6, 2019</div> - 
+The great burst of energy occurred - or at least partially.  The top level pages of Cahall.com have now been migrated to Bootstrap 4.  Moving the entire site was completely too much work.  But at least the top pages are now mobile friendly. Please also note, the 2019 racing schedule is live on marrspoints.com.
+
+<h2 class="hp">Most Updates Now On <a href="http://cahallracing.com/">CahallRacing.com</a></h2>
+<div class="hpdate">March 31, 2018</div> - 
+Please note that future updates on races and racing will mostly be posted
+on <a href="http://cahallracing.com/">CahallRacing.com</a> going forward.
+Occasionally a blurb here or there will show up here.  This site will be maintained
+for historical perspective.  Some day, under an enormous burst of energy,
+this site may get moved over to WordPress or at least bootstrap templates and
+be more mobile friendly.  For now, this old workhorse will have to suffice.
+The <a href="http://marrspoints.com/bootstrap/marrs/2018">2018 race schedule</a> is on 
+<a href="http://marrspoints.com/">MARRS Points</a> as with previous years.
+
+<h2 class="hp">Ted Cahall tentatively sets 2018 racing schedule</h2>
+<div class="hpdate">March 17, 2018</div> - 
+Ted Cahall plans on racing the 
+<a href="http://marrspoints.com/bootstrap/marrs/?season=2018">MARRS series</a>
+again in 2018.  2017 ended up being a very short season for Ted and his 
+brothers Larry and Bob with only MARRS 1 under their belts.  Ted also did
+Road Atlanta in 2017.  Hopefully 2018 will be a more productive year at the track!
+Ted again plans on operating the 
+<a href="http://marrspoints.com/">MARRS Points</a> tracking application again
+in 2018 in support of Lin Toland and the SCCA Washington DC Region.
+
+<h2 class="hp">Cahall Racing sets 2017 schedule, starts at Road Atlanta</h2>
+<div class="hpdate">March 10, 2017</div> - 
+Ted Cahall and his brothers Larry and Bob plan on racing the 
+<a href="http://marrspoints.com/bootstrap/marrs/?season=2017">MARRS series</a>
+again in 2017.  Ted also plans on racing some Majors races and will start
+the season with the Road Atlanta Majors as in 2016. Ted plans on operating the 
+<a href="http://marrspoints.com/">MARRS Points</a> tracking application again
+in 2017 in support of Lin Toland and the SCCA Washington DC Region. 
+
+<h2 class="hp">Ted Cahall receives WDCR Regional Executive Award</h2>
+<div class="hpdate">January 6, 2017</div> - 
+<a href="http://cahall-labs.com/ted-cahall-receives-wdcr-scca-regional-executive-award/">Ted Cahall was awarded the WDCR Regional Executive's Award</a>
+for his development and operation of the 
+<a href="http://marrspoints.com/">marrspoints.com</a>
+race tracking web application.
+
+<h2 class="hp">Ted Cahall sets personal best at Road Atlanta</h2>
+<div class="hpdate">March 19, 2016</div> - 
+With the coaching expertise of <a href="http://atlspeedwerks.com/">Todd Lamb</a>, Ted Cahall 
+was able to drop a half second off his previous 
+best lap time at Road Atlanta while qualifying on Saturday 
+(<a href="https://www.youtube.com/watch?v=CLHc1FIH_-8">Saturday video</a>).  
+Ted dropped another 8 tenths of a second off his Saturday time
+in the Sunday race breaking his best lap time prior to this weekend by 1.3s for a 1:45.07.  Seven of the 20 laps were in the 1:45s with the
+remainder aside from the starting lap in the 1:46s.  Clearly a personal best weekend at Road Atlanta.  Many thanks to
+East Street Racing/Jim Drago for the motors, Todd Lamb for the coaching and Brian Zellner for the car set up.
+
+<h2 class="hp">Announcing <a href="http://marrspoints.com/">MARRS Points</a> website</h2>
+<div class="hpdate">March 13, 2016</div> - 
+In conjunction with the Washington DC Region (WDCR) of the SCCA, 
+Ted Cahall announces the availability of the <a href="http://marrspoints.com/">MARRS Points</a> Series Championship tracking website.
+This site has been adopted by the WDCR as the official points tracking site for the 2016 season.  
+The Championships for the 2015 season have been loaded into the site for all MARRS races and race classes.  It also works on your mobile phone.
+
+<h2 class="hp">Cahall Racing Schedules the 2016 Race Season</h2>
+<div class="hpdate">February 28, 2016</div> - 
+Ted Cahall's has posted his 
+<a href="http://marrspoints.com/bootstrap/schedule/?season=2016">2016 Majors and MARRS SCCA racing schedule</a>.
+While the 2016 schedule includes 
+Majors races at tracks such as Road Atlanta, Road America, NJMP, VIR, Watkins Glen, and Summit Point, 
+the main attraction again this year will be the National Championship Runoffs held at Mid-Ohio.  
+While Ted already attended the NOLA Majors 
+(<a href="https://www.youtube.com/watch?v=jmbKUb64Ed4">Fast Lap Video</a>) 
+in February to kick things off, he does not plan to attend many of the listed Majors after the
+Summit Point Majors race.  He is currently unsure if he will attend the Mid-Ohio Majors Championship Runoffs.
+
+<h2 class="hp">Cahall Racing Concludes the 2015 Race Season</h2>
+<div class="hpdate">October 4, 2015</div> - 
+Ted Cahall raced most of the 2015 season without either brother in attendance aside from the MARRS 8 & 9 double weekend.  
+<a href="http://marrspoints.com/bootstrap/points/leaderboard/index.jsp?class=SM&season=2015">Ted finished 6th in the Net and Gross points</a> as he worked on 
+his <a href="http://marrspoints.com/">MARRS Points</a> tracking web site.  He also attended Majors at Road Atlanta (two), Road America, and Summit Point.  While he qualified for the Runoffs, he elected not to participate this year.
+Check out the <a href="http://cahallracing.com/photos/nggallery/cahall-racing-galleries/ARRC-2015">photo gallery of Ted Cahall at the 2015 ARRC</a> at Road America.
+
+<h2 class="hp">Cahall Racing Schedules the 2015 Race Season</h2>
+<div class="hpdate">February 15, 2015</div> - 
+Ted Cahall plans to attend another year of exciting SCCA racing in both MARRS regional and Majors (National) events.  While the <a href="/racing/2015/SCCA/">2015 schedule</a> includes races at tracks such as Road Atlanta, Road America, NJMP, VIR, Watkins Glen, and Summit Point, the main attraction this year will be the National Championship Runoffs held down in Daytona, Florida.  It should be a great season.  Check back for updates and results as the year progresses.
+
+<h2 class="hp">Cahall Racing Concludes the 2014 Race Season</h2>
+<div class="hpdate">October 5, 2014</div> - 
+Ted Cahall raced most of the 2014 season without either brother in attendance.  Bob spent the summer with their close freind, Jim Drake, while he battled a terminal illness.  Larry decided to take the year off aside from attending part of a MARRS race where the engine gave out.
+
+Ted had a number of firsts in 2014.  He obtained the pole position at Summit Point twice and won his first SM class race at VIR in MARRS 2.  He also claimed 2nd place in MARRS 3 at VIR.  He almost broked the Summit Point track record with a 1:26.333 in MARRS 9.  He finished 2nd in the overall points for the MARRS series behind Lee York.  Ted also competed in a number of Majors events and qualified for the National Championship Runoffs but decided not to attend due to cost, distance, and his workload at Digital River. He had his best Road America finish (5th) in the July Majors (not June Sprints) although not his best career Majors finish which came last year with 3rd place in the Summit Point Majors.
+
+<h2 class="hp">Cahall Racing Concludes the 2013 Race Season</h2>
+<div class="hpdate">October 30, 2013</div> - 
+The 2013 Season for Cahall Racing was action packed with both regional and Majors/Nationals level racing.  Ted finished 5th in the Washington DC Regional MARRS Series and qualified 14th out of 70 drivers for the SCCA National Champiuonship Runoffs.  
+
+On the regional side of things Ted finished 2nd in three races but never brought home a first place SM trophy.  For the Majors series he was able to race at the new F1 track in Austin and finished 3rd and 4th at the Summit Point Majors - his best Majors/Nationals finishes of his racing career.  While Ted was one of the competitors that broke the Road America qualifying track record for the SCCA National Championships, he unfortunately had a bad start and difficulties in the race and finished just out of the top 20.  It was a great year and he is looking foeward to another year of both regional and Majors level racing in 2014!
+
+<h2 class="hp"><!-- <a href="/racing/2012/SCCA/MARRS/9/"> --> MARRS 3&amp;4 /SARRC Challenge @ VIR<!-- </a> --> </h2>
+<div class="hpdate">Alton, VA, May 12, 2013</div> - 
+<!-- <a href="/racing/2012/SCCA/MARRS/9/"> -->
+<img src="/i2/MARRS3-Podium-Ted-Cahall-200.jpg" width="200" align="left" style="margin-right:6px;" alt="Ted Cahall at Roebling Road"/>
+<!-- </a> -->
+Ted Cahall and <a href="http://www.toddlamb.com/">Todd Lamb</a> were back at VIR for the second time this season - this time for the MARRS/SARRC regional races with their friends from the south including Tom Folwer and the drivers from 
+<a href="http://opmautosports.com/">OPM</a>. Ted did very well in the Saturday (MARRS 3) race with his second podium finish in the MARRS series this year with a second place MARRS finish behind Nick Bruni.  He had trouble getting a good qualifying lap in the Sunday (MARRS 4) race and started 9th for MARRS and 21st overall.  During the race, he advancing 7 cars but all were SARRC competitors and still finished 14th overall and 9th in MARRS.  Todd ran off with the MARRS race on Sunday and finished 1st.  Bob Cahall set a personal best lap time at VIR.
+<!-- (<a href="/racing/2012/SCCA/MARRS/9/">more...</a>) -->
+
+<h2 class="hp"><!-- <a href="/racing/2012/SCCA/MARRS/9/"> --> Summit Point Majors @ Summit Point<!-- </a> --> </h2>
+<div class="hpdate">Summit Point, WV, May 5, 2013</div> - 
+<!-- <a href="/racing/2012/SCCA/MARRS/9/"> -->
+<img src="/i2/Ted-Cahall-SP-Majors-200.jpg" width="200" align="left" style="margin-right:6px;" alt="Ted Cahall at Roebling Road"/>
+<!-- </a> -->
+Ted Cahall and <a href="http://www.toddlamb.com/">Todd Lamb</a> were back at Summit Point for the second time this season for the Majors Double races. After qualifying, the plan was to allow Todd to go out and win both races.  The first race went as planned with Todd winning by a large margin.  Ted set the fastest lap of the first race with a 1:26.536 and came in fourth. Sunday did not work out quite as planned.  Todd had a brake caliper come off in the 8th lap and was out of the race.  Ted set the second fastest lap of that race with a new personal best of 1:26.451 which was the second fastest lap behind Todd.  Ted came in 3rd in the race for his first SM National Podium.
+<!-- (<a href="/racing/2012/SCCA/MARRS/9/">more...</a>) -->
+
+<h2 class="hp"><!-- <a href="/racing/2012/SCCA/MARRS/9/"> --> VIR Majors Super Tour @ VIR<!-- </a> --> </h2>
+<div class="hpdate">Alton, VA, April 21, 2013</div> - 
+<!-- <a href="/racing/2012/SCCA/MARRS/9/"> -->
+<img src="/i2/Ted-Cahall-Todd-Lamb-VIR-Majors-200.jpg" width="200" align="left" style="margin-right:6px;" alt="Ted Cahall at Roebling Road"/>
+<!-- </a> -->
+Ted Cahall and his racing coach, <a href="http://www.toddlamb.com/">Todd Lamb</a>, hit the VIR Majors Super Tour on their second leg of their journey to attend the SCCA National Championship Runoffs in September. Ted set new personal best lap times all weekend including a 2:19.5 in qualifying for the Sunday race.  Ted fairewd well enough to earn 4 National points on Saturday's race by finishing 16th overall.  Due to flights, Ted did not race Sunday.  However Todd was able to move up several positions after being knocked off track during Sunday's qualifyiing and almost set the track record with a 2:17.9.
+<!-- (<a href="/racing/2012/SCCA/MARRS/9/">more...</a>) -->
+
+<h2 class="hp"><!-- <a href="/racing/2012/SCCA/MARRS/9/"> --> MARRS 1&amp;2 @ Summit Point<!-- </a> --> </h2>
+<div class="hpdate">Summit Point, WV, April 14, 2013</div> - 
+<!-- <a href="/racing/2012/SCCA/MARRS/9/"> -->
+<img src="/i2/Ted-Cahall-Todd-Lamb-SP-200.jpg" width="200" align="left" style="margin-right:6px;" alt="Ted Cahall at Roebling Road"/>
+<!-- </a> -->
+Ted Cahall was joined by <a href="http://www.toddlamb.com/">Todd Lamb</a> for the first MARRS regional series events of the 2013 season. This was Ted's third weekend racing this year while the first for many of the other competitors. Ted set personal best lap times thoughout the weekend and finished 4th on Saturday.  Ted led five laps for the MARRS 2 race on Sunday and battled Neil O'Rourke hard to end with his first SM second place MARRS finish and his first SM Podium at Summit Point.
+<!-- (<a href="/racing/2012/SCCA/MARRS/9/">more...</a>) -->
+
+<h2 class="hp"><!-- <a href="/racing/2012/SCCA/MARRS/9/"> --> CoTA Majors Super Tour @ Ciruit of The Americas<!-- </a> --> </h2>
+<div class="hpdate">Austin, TX, March 10, 2013</div> - 
+<!-- <a href="/racing/2012/SCCA/MARRS/9/"> -->
+<img src="/i2/Ted-Cahall-CoTA-200.jpg" width="200" align="left" style="margin-right:6px;" alt="Ted Cahall at Roebling Road"/>
+<!-- </a> -->
+Ted Cahall and his coach, <a href="http://www.toddlamb.com/">Todd Lamb</a>,
+traveled to Austin, TX to begin the first leg of their journey of racing at tne SCCA Natonal Championship Runnoffs in September. CoTA is the new F1 track that was opened last November.  The track had never been used by the SCCA before and there were many issues involved in the weekend's operations.  Jason Hoover and his team from Atlanta MotorSports Group (AMG) had the cars in excellent condition. Ted improved his lap times each session and race. Mission accmomplished for leg one of the requirementsd for the Runoffs.  It is a interesting track but a long way away from DC, Seattle and Atlanta.
+<!-- (<a href="/racing/2012/SCCA/MARRS/9/">more...</a>) -->
+
+<h2 class="hp"><!-- <a href="/racing/2012/SCCA/MARRS/9/"> -->OPM Test Day @ Roebling Road<!-- </a> --> </h2>
+<div class="hpdate">Savannah, GA, January 27, 2013</div> - 
+<!-- <a href="/racing/2012/SCCA/MARRS/9/"> -->
+<img src="/i2/ted-cahall-opm-test-day-100.jpg" width="100" align="left" style="margin-right:6px;" alt="Ted Cahall at Roebling Road"/>
+<!-- </a> -->
+Ted Cahall joined <a href="http://www.toddlamb.com/">Todd Lamb</a> for the 
+<a href="http://opmautosports.com/">OPM Test Days</a> at Roebling Road in Savannah, GA for some early 2013 racing practice.  Roebling Road is a fantastic track that requires limited drifting through a number of the corners for optimal lap times.  Ted set a personal best lap of 1:22.48 as 
+<a href="/racing/Personal-Best-Lap-Times/Roebling-Road-January-27-2013/">caught by his GoPro video camera</a>.
+<!-- (<a href="/racing/2012/SCCA/MARRS/9/">more...</a>) -->
+
+<h2 class="hp">Ted Cahall Sets Goals for the 2013 Race Season</h2>
+<div class="hpdate">March 2nd, 2013</div> - 
+Ted Cahall has set his goals for the 2013 racing season.  The two primary goals are to finish at least 7th in the MARRS series in the SM class and to race in the SCCA National Championship Runoffs in September. To accomplish these goals, Ted plans on working with championship racing driver, 
+<a href="http://www.toddlamb.com/">Todd Lamb</a>,
+as a coach to help him improve his technique and racecraft. Secondarily, Ted also has set a goal of breaking his personal best lap times on each track he visits this year including Road America where the Runoffs are held.
+
+</div> <!-- close left-column -->
+
+<div id="right-columnx" style="margin-left:20px;width:300px;float:left;">
+<!-- <h2 class="hp">&nbsp;&nbsp;</h2> -->
+<!-- Here is some test text of the right column. -->
+<!--
+<iframe src="http://www.facebook.com/plugins/like.php?href=cahall.com"
+scrolling="no" frameborder="0"
+style="border:none; width:300px; height:10px"></iframe>
+-->
+
+<!-- AddThis Button BEGIN -->
+<!--
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_send"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_google_plusone"></a>
+<a class="addthis_button_linkedin"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e3cbda1186f6ef3"></script>
+-->
+<!-- AddThis Button END -->
+
+</div>
+</div>
+</div>
+<div class="col-sm-5">
+<!--
+<div id="right-boxx" style="background-color:#EEEEEE;width:300px;">
+-->
+<div id="rb-text" style="padding-left:6px;width:294;padding-top:6px;padding-bottom:6px;">
+<strong>Ted Cahall's Racing Quick Links</strong><br/>
+
+<p>
+2017 Links
+<ul style="margin-top:-12px;">
+<li><a href="http://marrspoints.com/bootstrap/schedule/?season=2017">Majors and MARRS Schedule</a></li>
+<li><a href="http://marrspoints.com/bootstrap/marrs/?season=2017">MARRS Schedule</a></li>
+</ul>
+</p>
+
+<p>
+2016 Links
+<ul style="margin-top:-12px;">
+<li><a href="http://marrspoints.com/bootstrap/schedule/?season=2016">Majors and MARRS Schedule</a></li>
+<li><a href="http://marrspoints.com/bootstrap/marrs/?season=2016">MARRS Schedule</a></li>
+</ul>
+</p>
+
+<p>
+2015 Links <strong></strong>
+<ul style="margin-top:-12px;">
+<li><a href="/racing/2015/SCCA/">Majors and Regional Schedule</a></li>
+<li><a href="http://marrspoints.com/bootstrap/points/leaderboard/index.jsp?class=SM&season=2015">MARRS SM 2015 Results</a></li>
+</ul>
+</p>
+
+<p>
+2014 Links <strong></strong>
+<ul style="margin-top:-12px;">
+<li><a href="/racing/2014/SCCA/">Majors and Regional Schedule</a></li>
+<li><a href="/racing/2014/SCCA/MARRS/Points/">MARRS Race Results / Points</a></li>
+<li><a href="/racing/2014/SCCA/Majors/Points/">Majors Points</a></li>
+</ul>
+</p>
+
+<p>
+2013 Links <strong></strong>
+<ul style="margin-top:-12px;">
+<li><a href="/racing/2013/SCCA/">National and Regional Schedule</a></li>
+<li><a href="/racing/2013/SCCA/MARRS/Points/">MARRS Race Results / Points</a></li>
+<li><a href="/racing/2013/SCCA/Nationals/Points/">National Points</a></li>
+</ul>
+</p>
+
+<p>
+2012 Links <strong></strong>
+<ul style="margin-top:-12px;">
+<li><a href="/racing/2012/SCCA/">National and Regional Schedule</a></li>
+<li><a href="/racing/2012/SCCA/MARRS/Points/">MARRS Points</a></li>
+<!--
+<li><a href="/racing/2011/Non-MARRS-Results/">National Points</a></li>
+-->
+</ul>
+</p>
+
+<p>
+2011 Links
+<ul style="margin-top:-12px;">
+<li><a href="/racing/2011/">National and Regional Schedule</a></li>
+<li><a href="/racing/2011/MARRS-Points/">MARRS Points</a></li>
+<li><a href="/racing/2011/Non-MARRS-Results/">National Points</a></li>
+</ul>
+</p>
+
+<p>
+2010 Links
+<ul style="margin-top:-12px;">
+<li><a href="/racing/2010/">National and Regional Schedule</a></li>
+<li><a href="/racing/2010/MARRS-Points/">MARRS Points</a></li>
+<li><a href="/racing/2010/Non-MARRS-Results/">National Results</a></li>
+</ul>
+</p>
+<p>
+2009 Links
+<ul style="margin-top:-12px;">
+<li><a href="/racing/2009/">Regional Schedule</a></li>
+<li><a href="/racing/2009/MARRS-Points/">MARRS Points</a></li>
+</ul>
+</p>
+<p>
+<a href="/racing/Personal-Best-Lap-Times/">Personal Fastest Lap per Track</a>
+</p>
+<p>
+Related Websites:
+<ul style="margin-top:-12px;">
+<li><a href="http://cahallracing.com/">Cahall Racing</a></li>
+<li><a href="http://www.youtube.com/tedcahall">Ted Cahall Racing Videos on YouTube</a></li>
+</ul>
+</p>
+</div> <!-- end rb-text -->
+
+<p align="center">
+<img src="i2/Runoffs-2013.jpg" width="320" alt="2013 SCCA National Championships Logo"/>
+</p>
+
+<p align="center">
+<a href="/racing/2011/SCCA-National-Championships/">
+<img src="i2/scca-runoffs-2011-304.jpg" width="304" alt="SCCA National Championships Logo"/>
+</a>
+</p>
+
+<p align="center">
+<a href="/racing/2010/SCCA-National-Championships/">
+<img src="i2/SCCA-Runoffs-2010-300.jpg" width="300" alt="SCCA National Championships Logo"/>
+</a>
+</p>
+
+<p align="center">
+<a href="http://www.nescca.com/">
+<img src="/i2/NESCCAnr-300.jpg" alt="Northeast Division SCCA"/>
+</a>
+</p>
+<p align="center">
+<a href="http://www.scca.com/hub.aspx?hub=1">
+<img src="/i2/sccaclub-268.jpg" alt="SCCA Club Racing"/>
+</a>
+</p>
+<p align="center">
+<a href="http://www.wdcr-scca.org/ClubRacing/AboutClubRacing/tabid/70/Default.aspx">
+<img src="/i2/marrs-152.gif" alt="Mid-Altantic Road Racing Series"/>
+</a>
+</p>
+<p align="center">
+<a href="http://meatheadracing.com/">
+<img src="/i2/MeatheadRacingLogo-300.gif" alt="Meathead Racing"/>
+</a>
+</p>
+<p align="center">
+<a href="http://eaststreet.com/">
+<img src="/i2/eaststreet-299.gif" alt="Eaststreet Automotive"/>
+</a>
+</p>
+
+
+
+</div> <!-- end right-box -->
+</div> <!-- close right-column -->
+
+
+<div id="single-columnx" style="clear:both;text-align:center;">
+<br/>
+<div id="single-columnx2" style="background-color:#EEEEEE;clear:both;text-align:center;">
+<p align="center">
+Posts From:&nbsp;
+<a href="/archive/2012.shtml"><strong>2012</strong></a>, &nbsp;&nbsp;&nbsp;
+<a href="/archive/2011.shtml"><strong>2011</strong></a>, &nbsp;&nbsp;&nbsp;
+<a href="/archive/2010.shtml"><strong>2010</strong></a>, &nbsp;&nbsp;&nbsp;
+<a href="/archive/2009-change-log.shtml"><strong>2009 and older</strong></a>
+</p>
+
+<!--#include virtual="end-page.html"-->
+<!--#include virtual="bsfooter.html"-->
+</body>
+</html>
+
+

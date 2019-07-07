@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>Ted Cahall - EMRA Sprints / 4 Hour Enduro - cahall.com</title>
+<meta content="Ted Cahall EMRA Sprints / Enduro - SCCA Club Racing " name="description" />
+<meta content="Ted Cahall, Ted Cahall, EMRA Sprints, EMRA 4 Hour Enduro, SCCA Club Racing" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>EMRA Sprints and 4 Hour Enduro</h1>
+<div class="content">
+Ted Cahall participated in the <a href="http://wordpress.tedcahall.com/2009/11/15/took-4th-place-in-emra-sprints/">EMRA
+Sprints</a> and <a href="http://wordpress.tedcahall.com/2009/11/15/took-3rd-place-in-emra-4-hour-enduro/">4
+Hour Enduro</a> at Summit Point on November 14th.&nbsp; These two races
+represent Ted's best finishes of his rookie season.&nbsp; He <a href="http://emraracing.org/RESULTS/race_result_setup.asp?result=r111409"> finished 4th in a
+field of 9 SM Spec Miatas in the Sprints</a> after missing a shift in turn 6 to let
+the car behind him squeak by.&nbsp; He was 9th overall of all the small bore
+cars in a field of 22 cars.<p>Ted also combined with <a href="http://meatheadracing.com/drivers.html#al">Bad
+Al Bell</a> in the <a href="http://emraracing.org/RESULTS/end_result_page.asp?event=e111409"> EMRA 4 Hour Enduro
+race to finish 3rd overall</a> (and win his first trophy).&nbsp; They were also
+1st in the SM class&nbsp; for the Enduro as well.&nbsp; A huge thank you goes out to Al for his excellent driving
+skills and to <a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!&nbsp; Click through on the picture below to <a href="http://rides.webshots.com/album/575577493kfVFTx">see
+more photos of the event at Webshots</a>.
+<p align="center">
+<a href="http://rides.webshots.com/album/575577493kfVFTx">
+<img src="http://inlinethumb11.webshots.com/46346/2200230050057109642S500x500Q85.jpg" 
+alt="Ted Cahall in EMRA Sprints"></a>
+</p>
+
+
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

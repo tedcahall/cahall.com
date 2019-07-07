@@ -1,0 +1,98 @@
+<html>
+<head>
+<title>Ted Cahall - 2010 Watkins Glen Double National - cahall.com</title>
+<meta content="Ted Cahall 2010 Watkins Glen Double National - SCCA Club Racing " name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2010 Watkins Glen Double National, SCCA Club Racing, Summit Point" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>2010 Watkins Glen SCCA Double National</h1>
+<div class="content">
+<a href="Ted-Cahall-Large-Photos">
+<img src="ted-cahall-watkins-glen-2010.jpg" height="200" width="300" align="right"/>
+</a>
+As part of the <a href="http://meatheadracing.com/drivers.html">Meathead Racing Team</a>, Ted Cahall participated in his third SCCA Club Racing National weekend on Friday July 9th through Sunday July 11th, 2010 at the 
+<a href="http://www.theglen.com/">Watkins Glen</a> road course in Watkins Glen, NY.  &nbsp;&nbsp;As with the 
+<a href="http://cahall.com/racing/2010/VIR-Double-National/">VIR Double National</a> in April and the 
+<a href="http://www.nelsonledges.com/">Nelsons Ledges Double National</a> last weekend, this was also a two race event with races on both Saturday and Sunday. 
+For Ted, the main goal of these two races was to satisfy his "two national races in the 
+<a href="http://nescca.com/">Northeast Region</a>" requirement to qualify him for the 
+<a href="http://roadamerica.com/Races/RaceInformation.asp?id=30">SCCA Club Racing National Championship Runoffs</a> 
+at Road America in Elkhart Lake, WI this September.
+<p>
+The whole weekend actually started with a drive up to the beautiful "Finger Lakes" region of upstate New York on Wednesday followed by a day of three practice sessions on Thursday. The practice sessions provided a new experience for many of the 
+<a href="http://meatheadracing.com/drivers.html">Meathead Racing drivers</a> that had never been on the Watkins Glen track. Ted took it easy and learned the track Thursday with a best time of 2:32.475.  The Friday sessions included a quick practice session followed by a set of qualifying laps for each of the Saturday and Sunday races. Ted turned a 2:29.394 in the Saturday qualifying laps and a 2:29.745 for Sunday.
+(<a href="http://www.facebook.com/album.php?aid=187664&id=662089592&l=8d758e7c3c">See a few photos of the Meathead Racers</a>.)
+<p>
+<img src="http://upload.wikimedia.org/wikipedia/commons/2/2a/Watkins_Glen_International_Circuit_Map.png" height="150" width="300" align="right"/>Saturday was a bit more eventful! The day started with a second qualifying event for that day's race with racers taking their fastest lap from either that session or Friday's morning session to determine their final grid position in Saturday's race.  Ted ran a 2:28.601.  Saturday's race was marred with a couple of accidents 
+(<a href="/racing/2010/Watkins-Glen/First-SM-Accident/">see video of first accident</a>) that knocked three 
+<a href="http://meatheadracing.com/drivers.html">Meathead Racing drivers</a> out of the competition and caused most of the race to be run under the double yellow flag. Ted ran a Watkins Glen 
+<a href="/racing/Personal-Best-Lap-Times/">personal best</a> of 2:26.100 
+(<a href="/racing/Personal-Best-Lap-Times/Watkins-Glen-July-10-2010/">see video</a>), had three other laps in the 2:27's, and finished the race with his car intact!
+<p>
+Since a few of Ted's fellow racers did not complete Saturday's race (and thus their National Runoff requirement), Ted made finishing Sunday's race a top priority.  He skipped the morning qualifying session since he had qualified on Friday for Sunday's race.  In the race, Ted ran well and turned a 2:26.823 fastest lap and completed the race.  He had a blast and is now all set for the <a href="http://roadamerica.com/Races/RaceInformation.asp?id=30">SCCA National Championship Runoffs</a>!
+<!--
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins (Meathead)</a> 
+-->
+
+<!--
+<p>
+As always, a huge thank you goes out to 
+<a href="http://meatheadracing.com/crew.html#glenn">Glenn</a>, 
+<a href="http://meatheadracing.com/crew.html#wendy">Wendy</a>, 
+<a href="http://meatheadracing.com/crew.html#karen">Karen</a>, 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!
+</p>
+-->
+
+
+
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+<br>
+<!--#include virtual="/racing/2010/2010menu.html"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>Ted Cahall MARRS 4 - SCCA Club Racing - cahall.com</title>
+<meta content="Ted Cahall participated in MARRS 4 as part of SCCA Club Racing on May 30 and 31, 2009.  It was his second official MARRS race in his rookie year with the SCCA Club Racing." name="description" />
+<meta content="Ted Cahall, Ted Cahall, MARRS 4, SCCA Club Racing " name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>Ted Cahall Completes MARRS 4, Gets Regional License!</h1>
+<div class="content">
+Ted Cahall participated in the MARRS 4 SCCA race on May 31, 2009. This race was
+significant as it allowed Ted to earn his regional SCCA Club Racing Regional
+License.&nbsp; Ted's fastest lap times were progressively faster from the Saturday morning qualifier
+session (1:35.625), to the qualification race (1:35.013), to the actual race on
+Sunday (1:34.260).<p>Sunday's fastest lap was Ted's fastest recorded time on the Summit Point
+&quot;Main&quot; Course.&nbsp; Click <a href="http://rides.webshots.com/album/572731797IDpQol">here</a>
+or on the photo below to see more photos
+from the MARRS 4 weekend.&nbsp; You can also <a href="http://wordpress.tedcahall.com/2009/05/31/ted-cahall-gets-his-scca-regional-racing-license/">read
+about this event on Ted's blog post</a>.
+<p align="center">
+<a href="http://rides.webshots.com/album/572731797IDpQol">
+<img src="http://inlinethumb45.webshots.com/42220/2328795510057109642S600x600Q85.jpg" 
+alt="IMG_1911"></a>
+</p>
+
+
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

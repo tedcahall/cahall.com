@@ -1,0 +1,183 @@
+<html>
+<head>
+<title>Ted Cahall 2011 SCCA Club Racing Schedule and Results - cahall.com</title>
+<meta content="Ted Cahall 2011 SCCA Club Racing Schedule and Results" name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2011, SCCA Club Racing, Schedule, SCCA, Spec Miata, SM" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<!--#include virtual="/racing/year-submenu.html"-->
+
+<h1>Ted Cahall 2011 SCCA Club Racing Schedule&nbsp; &nbsp;<img src="/i/scca.gif" width="61" height="25"></h1>
+<div class="content">
+This is a page of all of the racing events Ted Cahall plans to attend in 2011.&nbsp;
+Most of these events are sponsored by the SCCA and are part of the Mid-Atlantic Road Racing Series (MARRS).&nbsp; 
+Ted is a member of the <a href="http://meatheadracing.com/drivers.html#ted">Meathead Racing</a> team
+and holds an SCCA Club Racing National Competition License.&nbsp; 
+Read more about 
+<a href="http://wordpress.tedcahall.com/about-ted-cahall/">Ted's experiences with the SCCA</a>, 
+his <a href="http://wordpress.tedcahall.com/ted-cahall-spec-miata/">Spec
+Miata</a>, and racing on his <a href="http://wordpress.tedcahall.com/">blog</a>.&nbsp;&nbsp;
+See some <a href="http://www.youtube.com/tedcahall">racing videos of Ted on YouTube!</a>
+Click on the links below the table to view individual events.
+<br>
+<br>
+<table border="1">
+<tr>
+<td><b>Date(s)</b></td><td><b>Event</b></td><td><b>Location</b></td><td><b>Status</b></td><td><b>Blog/Photos</b></td>
+</tr>
+
+<tr>
+<td>Jan 7-9</td>
+<td>Palm Tree <font color="#0000ff">National</font> <strong>@</strong> <a href="http://www.sebringraceway.com/">Sebring Raceway</a></td>
+<td>Sebring, FL</td>
+<td><center><b>Completed</b></center></td>
+<td><a href="/racing/2011/CFR-Double-National/">Results</a>, <a href="http://www.facebook.com/album.php?aid=218329&l=24f62cc884&id=351254787464">FB</a></td>
+</tr>
+
+<tr>
+<td>April 16-17</td>
+<td><b>MARRS 1</b></td>
+<td>Summit Point, WV</td>
+<td><center><b>Completed</b></center></td>
+<td><center><font color="#0000ff"><b>YES</b></font></center><!--<a href="/racing/2010/MARRS-1/">Results</a>--></td>
+</tr>
+
+<tr>
+<td>May 6-8</td>
+<td><b>MARRS 2 & 3 (Double)</b> <strong>@</strong> <a href="http://www.virnow.com/">VIR</a>&nbsp;</td>
+<td>Alton, VA</td>
+<td><center><b>Completed</b></center></td>
+<td><center><font color="#0000ff"><b>YES</b></font></center></td>
+</tr>
+
+<tr>
+<td>May 21-22</td>
+<td><b><font color="#0000ff">National</font> Race</b> @ Summit Point</td>
+<td>Summit Point, WV</td>
+<td><center><b>Completed</b></center></td>
+<td><center><font color="#0000ff"><b>YES</b></font></center><!--<a href="/racing/2010/MARRS-1/">Results</a>--></td>
+</tr>
+
+<tr>
+<td>June 4-5</td>
+<td><font color="#0000ff">National</font> SJR <strong>@</strong> <a href="http://www.njmotorsportspark.com/">NJMP - Thunderbolt</a>&nbsp;</td>
+<td>Millville, NJ</td>
+<td><center><font color="#0000ff">Registered</font></center></td>
+<td><center><font color="#0000ff"><b>YES</b></font></center></td>
+</tr>
+
+<tr>
+<td>June 11-12</td>
+<td><b>MARRS 4</b></td>
+<td>Summit Point, WV</td>
+<td><center><font color="#0000ff">Registered</font></center></td>
+<td><center><font color="#0000ff"><b>YES</b></font></center></td>
+</tr>
+
+<tr>
+<td>July 2-4</td>
+<td><font color="#0000ff">National</font> @ Nelson Ledges</td>
+<td>Garrettsville, OH</td>
+<td>Not Registered</td>
+<td><center><font color="#0000ff"><b>YES</b></font></center></td>
+</tr>
+
+<tr>
+<td>July 9-10</td>
+<td><b>MARRS 5</b></td>
+<td>Summit Point, WV</td>
+<td>Not Registered</td>
+<td><center><font color="#0000ff"><b>YES</b></font></center></td>
+</tr>
+
+<tr>
+<td>Aug 13-15</td>
+<td>Double <font color="#0000ff">National</font> @ <a href="http://www.poconoraceway.com/">Poconos</a></td>
+<td>Long Pond, PA</td>
+<td>Not Registered</td>
+<td><center><font color="#0000ff"><b>YES</b></font></center></td>
+</tr>
+
+<tr>
+<td>Aug 20-21</td>
+<td><b>MARRS 6 / NARRC</b> <strong>@</strong> <a href="http://www.njmotorsportspark.com/">NJMP - Thunderbolt</a></td>
+<td>Millville, NJ</td>
+<td>Not Registered</td>
+<td><center><font color="#0000ff"><b>YES</b></font></center></td>
+</tr>
+
+<tr>
+<td>Sept 3-5</td>
+<td><b>MARRS 7 & 8 (Double)&nbsp;</b></td>
+<td>Summit Point, WV&nbsp;</td>
+<td>Not Registered</td>
+<td><center><font color="#0000ff"><b>YES</b></font></center></td>
+</tr>
+
+<tr>
+<td>Sept 19-25</td>
+<td>SCCA <font color="#0000ff">National</font> Runoffs <strong>@</strong> <a href="http://www.roadamerica.com/">Road America</a></td>
+<td>Elkhart Lake, WI</td>
+<td>Not Registered</td>
+<td><center><font color="#0000ff">God Willing!</font></center></td>
+</tr>
+
+<tr>
+<td>Oct 8-9</td>
+<td><b>MARRS 9</b></td>
+<td>Summit Point, WV</td>
+<td>Not Registered</td>
+<td><center><font color="#0000ff"><b>YES</b></font></center></td>
+</tr>
+
+</table>
+
+<p>
+<img src="/i/marrs.gif" width="85" height="39">&nbsp;&nbsp;Check out <a href="/racing/2011/MARRS-Points/">Ted's 2011 MARRS Points</a> and other <a href="/racing/2011/Non-MARRS-Results/">non-MARRS results</a>.
+
+<br>
+<p align="center">
+<!--#include virtual="/racing/2011/2011menu.shtml"-->
+<!--#include virtual="/racing/2011/prev-years-menu.shtml"-->
+</p>
+
+</div>
+
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+
+</body>
+</html>
+

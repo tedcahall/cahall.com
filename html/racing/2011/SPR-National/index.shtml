@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Ted Cahall - 2011 Summit Point National - cahall.com</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta content="Ted Cahall 2011 Summit Point National - SCCA Club Racing" name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2011 Summit Point National, SCCA Club Racing" name="keywords" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+
+<script src="http://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js" type="text/javascript"></script>
+<script src="/v/videopopup.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+<link rel="stylesheet" href="/v/videopopup.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>2011 Summit Point National</h1>
+<div class="content">
+<img src="bob-cahall-sp-national-307.jpg" width="300" align="right" style="margin-left:6px;" alt="Bob Cahall at Summit Point National">
+Ted Cahall attended the SCCA Club Racing National event held at his home track at Summit Point Raceway on May 21st and 22nd.  While the world did not end as some had predicted, the weekend was not as smooth as many of the SM drivers would have liked.  Ted qualified 4th out of 21 cars for the SM race on Saturday after great practice sessions on Friday and Saturday morning including a 1:28.1 and a 1:28.5 lap time.
+<p>
+Unfortunately Ted's transmission blew out on the 13th lap of the STU race (which counted as a 4th place finish out of 4 STU cars entered).  In the afternoon, after Glenn raced to replace the transmission, it rained during lunch and the beginning of the SM race.  Ted fell from  4th place to 10th place.  National Points are only awarded to the top 9 drivers, and thus Ted earned ZERO points for his best SM start/grid position ever.  Rain practice is becoming necessary as both Summit Point events this year have been marred by rain.
+</p>
+<p>
+Ted's brother Bob Cahall (88 above) also attended and gained his National Competition License after competing in the regional SSM event.
+</p>
+<!--<img src="PowerCoach-sideview.JPG" width="300" align="right" style="margin-left:6px;" alt="Power Coach RV">
+The Mid-Atlantic Road Racing Series (MARRS) held its second and third regional SCCA Club Racing event of the 2011 season on Saturday May 7th and Sunday May 8th at <a href="http://virnow.com/">VIR</a> in Southern Virginia.-->
+
+<!--Unfortunately the race included double contact when teammate Nick Bruni sent Ted into a tank-slapper resulting in Ted colliding with the rear of Nick's car as he re-entered the course
+(<a onClick="renderPopup('popupContact');return false"><strong>click to see video</strong></a>).  
+This crash bent Ted's tie-rod and bent Nick's left rear control arm enough that Nick could not finish the race.
+</p>-->
+
+
+<p align="center">
+<strong>
+See Facebook photos of
+<a href="http://www.facebook.com/media/set/?set=a.1843356158680.254458.1083893735#!/media/set/?set=a.1843356158680.254458.1083893735">Summit Point National</a>
+courtesy of Mike Kelley.</strong>
+
+<img src="ted-cahall-SP-National.jpg" width="600" alt="Ted Cahall races in the 2011 Summit Point National"><br/>
+</p>
+<p>
+As always, a huge thank you goes out to 
+<a href="http://meatheadracing.com/crew.html#glenn">Glenn</a>, 
+<a href="http://meatheadracing.com/crew.html#sherise">Sherise</a>, 
+<a href="http://meatheadracing.com/crew.html#wendy">Wendy</a>, 
+<a href="http://meatheadracing.com/crew.html#karen">Karen</a>, 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!
+</p>
+
+<div id="popupContact">
+<a id="popupContactClose" class="popupContactCloseClass">x</a>
+<h1>Ted Cahall / Nick Bruni Spin</h1>
+<p id="contactArea">
+<!-- text will render here...  jQuery video popup of Ted Cahall YouTube racing video of MARRS 1 -->
+<br/>
+<iframe width="640" height="390" src="http://www.youtube.com/embed/F3FCnQUrXzA?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+
+Press ESCAPE, Click on X (top-right) or Click Out from the popup to close the popup!
+</p>
+</div>
+
+<div id="backgroundPopup"></div>
+
+<p align="center">
+<!--#include virtual="/racing/2011/2011menu.shtml"-->
+<!--#include virtual="/racing/2011/prev-years-menu.shtml"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Ted Cahall - 2011 NJMP National - cahall.com</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta content="Ted Cahall 2011 NJMP National - SCCA Club Racing" name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2011 NJMP National, SCCA Club Racing" name="keywords" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+
+<script src="http://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js" type="text/javascript"></script>
+<script src="/v/videopopup.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+<link rel="stylesheet" href="/v/videopopup.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>2011 SJR National @ NJMP</h1>
+<div class="content">
+<!-- <img src="bob-cahall-sp-national-307.jpg" width="300" align="right" style="margin-left:6px;" alt="Bob Cahall at Summit Point National">
+-->
+Ted Cahall, Mike Collins and Neil O'Rourke attended the SCCA Club Racing National event held at New Jersey Motorsports Park (NJMP) on June 4th and 5th.  
+</p>
+<!--<img src="PowerCoach-sideview.JPG" width="300" align="right" style="margin-left:6px;" alt="Power Coach RV">
+The Mid-Atlantic Road Racing Series (MARRS) held its second and third regional SCCA Club Racing event of the 2011 season on Saturday May 7th and Sunday May 8th at <a href="http://virnow.com/">VIR</a> in Southern Virginia.-->
+<p>
+The practice sessions were good and Ted improved his fastest lap time.  On Saturday morning, Ted did not do as well as the previous day and qualified towards the back of the 22 car SM field.  He rectified much of that on Saturday afternoon by setting a new "personal best" with a 1:38.328 and qualified 16th for the race.</P.
+<p>
+On Sunday, by the time the grid was set, Ted had moved to 15th as a car had pulled out of the race.  On grid, as the five minute warning was sounded, Ted's car would not start.  Some helpful support people from a few of the other teams opened the hood, figured it out, and got the car running.  This would not be that last mechanical incident of the race!
+</p><p>
+In the 4th or 5th lap, the fire suppression system sprang a leak and began spraying Ted in the face while he was driving down the front straight.  It is a good thing Ted is great at multi-tasking (ADD) as this occurred right after he was re-passing a car that had passed him before the straight.  Karen Dildei was on the radio and let Ted know he needed to stay in front of that car in order to finish in the top 9 and get National points.  After the second admonishment from Karen, while battling a jet spray to the face, a car on his heels, and managing gears and race-craft, Ted was able to feebly press his "talk button" and tell Karen, "I am doing the best I can".  Ted never had quite that much going on at once while trying to race.  In the end, he finished in 9th place and earned his first national SM points of his career!  He also set a new seasonal fastest lap for the NJMP Thunderbolt track at 1:37.465 (<a onClick="renderPopup('popupContact');return false"><strong>click to see video</strong></a>).  
+</p>
+
+<!--Unfortunately the race included double contact when teammate Nick Bruni sent Ted into a tank-slapper resulting in Ted colliding with the rear of Nick's car as he re-entered the course
+(<a onClick="renderPopup('popupContact');return false"><strong>click to see video</strong></a>).  
+This crash bent Ted's tie-rod and bent Nick's left rear control arm enough that Nick could not finish the race.
+</p>-->
+
+<!--
+<p align="center">
+<strong>
+See Facebook photos of
+<a href="http://www.facebook.com/media/set/?set=a.1843356158680.254458.1083893735#!/media/set/?set=a.1843356158680.254458.1083893735">Summit Point National</a>
+courtesy of Mike Kelley.</strong>
+-->
+
+<p align="center">
+<img src="njmp-nat-2011-web.jpg" width="600" alt="Ted Cahall races in the 2011 NJMP National"><br/>
+</p>
+<p>
+As always, a huge thank you goes out to 
+<!--
+<a href="http://meatheadracing.com/crew.html#glenn">Glenn</a>, 
+<a href="http://meatheadracing.com/crew.html#sherise">Sherise</a>, 
+<a href="http://meatheadracing.com/crew.html#wendy">Wendy</a>, 
+-->
+<a href="http://meatheadracing.com/crew.html#karen">Karen</a>, 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!
+</p>
+
+<div id="popupContact">
+<a id="popupContactClose" class="popupContactCloseClass">x</a>
+<h1>NJMP Thunderbolt Personal Fastest Lap</h1>
+<p id="contactArea">
+<!-- text will render here...  jQuery video popup of Ted Cahall YouTube racing video of MARRS 1 -->
+<br/>
+<iframe width="640" height="390" src="http://www.youtube.com/embed/wftLCnTfTvw?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+
+Press ESCAPE, Click on X (top-right) or Click Out from the popup to close the popup!
+</p>
+</div>
+
+<div id="backgroundPopup"></div>
+
+<p align="center">
+<!--#include virtual="/racing/2011/2011menu.shtml"-->
+<!--#include virtual="/racing/2011/prev-years-menu.shtml"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>

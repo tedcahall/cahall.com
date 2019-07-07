@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>Ted Cahall SCCA Spring Club Trials - cahall.com</title>
+<meta content="Ted Cahall Spring Club Trials SCCA Club Racing" name="description" />
+<meta content="Ted Cahall, Ted Cahall, Spring Club Trials, SCCA Club Racing" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<div class="large-content">
+Ted Cahall in the 2009 SCCA Club Trials
+</div>
+<div class="content">
+Ted Cahall participated in the SCCA Spring Club Trials in preparation for the
+MARRS Series in 2009.&nbsp; Ted's fastest lap around the Shenandoah Course at
+Summit Point was 1:50 seconds.&nbsp; The car below is the '99 SM class Spec
+Miata that I used that day and subsequently bought from Al Bell.&nbsp; <a href="http://wordpress.tedcahall.com/2009/04/12/ted-cahall-at-scca-club-trials-at-summit-point/">You
+can read about this event on my blog</a> and see <a href="http://rides.webshots.com/album/571210646KGFtcV">more
+pictures on Webshots</a>.
+<p align="center"><img src="http://inlinethumb57.webshots.com/45304/2379238690057109642S500x500Q85.jpg"</p>
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+</p>
+</div>
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

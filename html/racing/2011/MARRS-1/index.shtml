@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Ted Cahall - 2011 MARRS 1 - cahall.com</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta content="Ted Cahall 2011 MARRS 1 - SCCA Club Racing " name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2011 MARRS 1, SCCA Club Racing, Summit Point" name="keywords" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+
+<script src="http://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js" type="text/javascript"></script>
+<script src="/v/videopopup.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+<link rel="stylesheet" href="/v/videopopup.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>2011 MARRS 1 - Season Opener</h1>
+<div class="content">
+<img src="bob-cahall-88-299.jpg" width="299" align="right" style="margin-left:6px;" alt="Bob Cahall Spec Miata">
+The Mid-Atlantic Road Racing Series (MARRS) held its first regional SCCA Club Racing event of the season on Saturday April 16 and Sunday April 17 at Summit Point Raceway in West Virginia.
+<p>
+The Friday test day was great and both Larry and Ted Cahall had good runs getting their cars and reflexes back into shape.  Saturday was special due to the fact that it was the first time that all three Cahall brothers had ever been on the track at the same time (and it was Bob's first officially sanctioned race of his life).  Unfortunately, it rained all day on Saturday. The qualifying laps were terrible and Ted qualified 20th of 33 cars while Larry and Bob ended up 32nd and 33rd!  Not a great morning for the Cahalls.
+<p>
+The qualifying race was not too much better - but Ted finished 10th. This was only his 3rd lifetime top ten MARRS finish and happened in a downpour.  This moved Ted up to 15th grid position for the race on Sunday.
+<p>
+Sunday was another beautiful day like Friday.  The weather was even a little cooler allowing the cars to make greater horsepower.  Ted had a weaker start than normal but picked up the pace over the next few laps.  By the 9th lap he caught Nick Bruni who finished 8th in the race and passed him
+(<a onClick="renderPopup('popupContact');return false"><strong>click to see video</strong></a>).  
+Some back and forth ensued until Ted felt the car bog hard.  It turned out that the car was out of gas in lap 11 - of an 18 lap race.  This was the first race for Ted's new car at Summit Point and it is likely the fuel gauge was not operating correctly - which caused the pit crew to under fill the tank.  This would have been Ted's best MARRS finish ever.  Instead it became Ted's worst finish ever - and the first time he ever missed the finish of a race.  Larry and Bob did not finish last!
+
+<p align="center">
+<strong>
+See Facebook photos of
+<a href="http://www.facebook.com/media/set/fbx/?set=a.10150122224087465.249091.351254787464">MARRS 1</a>
+courtesy of <a href="http://meatheadracing.com/crew.html#karen">Karen Dildei</a>.
+
+<img src="larry-bob-ted-cahall-799.jpg" width="799" alt="Larry, Bob, and Ted Cahall">
+</strong>
+</p>
+<p>
+As always, a huge thank you goes out to 
+<a href="http://meatheadracing.com/crew.html#glenn">Glenn</a>, 
+<a href="http://meatheadracing.com/crew.html#sherise">Sherise</a>, 
+<a href="http://meatheadracing.com/crew.html#wendy">Wendy</a>, 
+<a href="http://meatheadracing.com/crew.html#karen">Karen</a>, 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!
+</p>
+
+<div id="popupContact">
+<a id="popupContactClose" class="popupContactCloseClass">x</a>
+<h1>Ted Cahall MARRS 1 - Race Video</h1>
+<p id="contactArea">
+<!-- text will render here...  jQuery video popup of Ted Cahall YouTube racing video of MARRS 1 -->
+<br/>
+<iframe width="640" height="390" src="http://www.youtube.com/embed/93ASZHVRUdE?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+
+Press ESCAPE, Click on X (top-right) or Click Out from the popup to close the popup!
+</p>
+</div>
+
+<div id="backgroundPopup"></div>
+
+<p align="center">
+<!--#include virtual="/racing/2011/2011menu.shtml"-->
+<!--#include virtual="/racing/2011/prev-years-menu.shtml"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>Ted Cahall - 2010 Nelson Ledges Double National - cahall.com</title>
+<meta content="Ted Cahall 2010 Nelson Ledges Double National - SCCA Club Racing " name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2010 Nelson Ledges Double National, SCCA Club Racing, Summit Point" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>2010 Nelson Ledges Double National</h1>
+<div class="content">
+<img src="ted-cahall-nelson-ledges-2010.jpg" width="300" height="200" align="right" alt="Ted Cahall at Nelson Ledges"/>
+As part of the <a href="http://meatheadracing.com/drivers.html">Meathead Racing Team</a>, Ted Cahall participated in his second SCCA Club Racing National weekend on Friday July 2nd through Monday July 5th, 2010 at the 
+<a href="http://www.nelsonledges.com/">Nelson Ledges</a> road course in Garrettsville, OH.  As with the 
+<a href="http://cahall.com/racing/2010/VIR-Double-National/">VIR Double National</a> in April, this was also a two race event with a race on both Sunday and Monday.  Ted's fastest lap was a 1:22.1 on the Friday practice session and then a 1:21.7 during the qualifying session on Saturday.
+(<a href="http://www.facebook.com/album.php?aid=185945&id=662089592&l=4f9cd8b050">See photos</a>.)
+<p>
+On Sunday, Ted ripped off a <a href="/racing/Personal-Best-Lap-Times/">new fastest lap</a> of 1:20.996 
+(<a href="/racing/Personal-Best-Lap-Times/Nelson-Ledges-July-3-2010/">video</a>) and finished 13th.  Later in the day his times for the qualifier were no where near as good - with a 1:22.3 best lap.  Only one of his laps in the morning race was slower than his fastest afternoon qualifying time. The turn 4 sweeper was still intimidating him and caused lower lap times.  Monday's race saw Ted starting from almost last place (13/16) in the SM (Spec Miata) class due to his poor Sunday afternoon qualifying time.
+<p>
+<a href="http://rides.webshots.com/album/578101819MOwfkq"><img src="ted-cahall-nelson-ledges-start.jpg" width=300" height="200" align="left" alt="Ted Cahall"></a>
+Monday's race was a bit somber as one of the group 1, open-wheel racers was airlifted from the track after an accident. Officials and racers were all pulling for the well being of their fellow sportsman.
+When the races were re-started, the lap times were slightly slower due to higher temperatures and a hotter track. Two fast cars that had not qualified for the race on Sunday (a T2 class Porsche plus track record holder Charley Campbell) were behind Ted and needed to clear through.  Pax Lemmons was able to also get around Ted at one point. Pax and Ted traded the spot off a couple of time during the race with Ted finally in the lead for the last several laps. Ted finished 13th (due to <a href="http://meatheadracing.com/drivers.html#tim">Tim Jacob's</a> car trouble) and turned a fastest lap time of 1:21.555 which was below his Sunday's best.   A huge <a href="http://meatheadracing.com/">Meathead Racing</a> call-out goes to rookie Dave Jacobs, who not only beat Ted in both Sunday and Monday's races, but beat veteran racer and instructor <a href="http://meatheadracing.com/drivers.html#al">Bad Al Bell</a> both days as well. <a href="http://meatheadracing.com/drivers.html#mike">Mike Collins (Meathead)</a> took second place in Monday's race!
+<p>
+Click on photo above to see more shots.
+</p>
+<p>
+As always, a huge thank you goes out to 
+<a href="http://meatheadracing.com/crew.html#glenn">Glenn</a>, 
+<a href="http://meatheadracing.com/crew.html#wendy">Wendy</a>, 
+<a href="http://meatheadracing.com/crew.html#karen">Karen</a>, 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!
+</p>
+
+
+
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+<br>
+<!--#include virtual="/racing/2010/2010menu.html"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Ted Cahall Press Releases - cahall.com</title>
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("work");
+</script>
+
+<!-- <div class="large-content"></div>  -->
+<h1>Press Releases and Media about Ted Cahall</h1>
+<div class="content">
+Executive Vice President and Chief Technology Officer at AOL
+<ul>
+<li>
+<a href="http://corp.aol.com/2009/10/20/aol-chief-technology-officer-ted-cahall-appointed-to-new-virgini/">Appointed
+to Virginia's Innovation and Entrepreneurship Investment Authority (IEIA)</a>
+<li><a href="http://www.businesswire.com/news/home/20091020005183/en/AOL-Chief-Technology-Officer-Ted-Cahall-Appointed">
+AOL Chief Technology Officer Ted Cahall Appointed to New Virginia Technology Board</a>
+</ul>
+
+
+President of AOL's Products and Technologies
+<ul>
+<li><a href="http://www.businessinsider.com/2009/1/aol-ceo-randy-falcos-memo-promoting-ted-cahall-to-president-of-products-twx">
+Promotion Memo, Silicon Alley Insider, Jan 8,2009</a>
+<li><a href="http://www.techcrunch.com/2009/01/08/product-group-reorg-at-aol-the-memo/">
+Promotion Memo, TechCrunch.com, Jan 8,2009</a>
+<li><a href="http://blogs.wsj.com/digits/2009/01/08/aol-names-new-product-chief/">
+Promotion Memo, Wall Street Journal, Jan 8, 2009</a>
+<li><a href="http://nobosh.com/s/falcos-memo-promoting-ted-cahall-to-president-of-products-twx/163657/">
+Promotion Memo, nobosh.com, Jan 8,2009</a>
+<li><a href="http://www.techcrunch.com/2009/01/08/product-group-reorg-at-aol-the-memo/">Product
+  Group Re-Org at AOL, TechCrunch, January8, 2009</a>
+</ul>
+
+
+<p>Release of new Webmail version of AOL Mail</p>
+<ul>
+<li><a href="http://corp.aol.com/2009/01/22/aol-launches-new-version-of-web-mail/">
+New Version of Web Mail, AOL Corp, Jan 22, 2009</a>
+<li><a href="http://www.timewarner.com/corp/newsroom/pr/0,20812,1873355,00.html">
+New Version of Web Mail, TimeWarner Corp, Jan 22, 2009</a>
+<li><a href="http://www.businesswire.com/news/home/20090121006486/en/AOL%C2%A0Launches-Version-Web-Mail">
+Press Release, EON Businessswire, Jan 22, 2009</a>
+</ul>
+
+
+Added AOL's Technologies Division to Responsibilities
+<ul>
+<li><a href="http://ir.aol.com/phoenix.zhtml?c=147895&p=irol-newsArticle&ID=1354477&highlight=">
+AOL Press Release, AOL Corp, July 11, 2007</a>
+<li><a href="http://www.prweb.com/releases/cahall/technologies/prweb539303.htm">
+Press Release, Press Release Newswire, July 11, 2007</a>
+<li><a href="http://eon.businesswire.com/news/eon/20070711105897/en">
+Press Release, EON Businessswire, July 12, 2007</a>
+<li><a href="http://www.imnewswatch.com/wp/2007/07/18/aol-appoints-ted-cahall-as-head-of-aol-technologies.html">
+Press Release, Internet Marketing News Watch, July 11, 2007</a>
+<li><a href="http://www.alleyinsider.com/2007/12/aol_twx_holiday_note_from_evp_ted_cahill">
+Internal Memo, Silicon Alley Insider, Dec 19, 2007</a>
+</ul>
+
+
+EVP of AOL's Platforms Business Unit
+<ul>
+<li><a href="http://ir.aol.com/phoenix.zhtml?c=147895&p=irol-newsArticle_print&ID=1355129&highlight=">
+AOL Press Release, AOL Corp, Jan 25, 2007</a>
+<li><a href="http://www.paidcontent.org/entry/industry-moves-aol-appoints-ted-cahall-as-platforms-head/">
+Paid Content, Jan 25, 2007</a>
+<li><a href="http://www.marketwatch.com/news/story/aol-names-ted-cahall-head/story.aspx?guid={2121F520-B5CE-4AD7-8C48-13E47D17E548}">
+MarketWatch, Jan 25, 2007</a>
+<li><a href="http://www.thefreelibrary.com/AOL+Names+Ted+Cahall+as+Head+of+Its+Platforms+Business+Unit-a0158320114">
+The Free Library, Jan 25, 2007</a>
+<li><a href="http://www.imediaconnection.com/news/13397.asp">
+iMedia Connection, Jan 25, 2007</a>
+</ul>
+
+
+EVP/COO of United Online
+<ul>
+<li><a href="http://investor.untd.com/releasedetail.cfm?ReleaseID=328887">
+Hiring Press Release, United Online Corp, August 1, 2005</a>
+<li><a href="http://www.redorbit.com/news/technology/193028/ted_cahall_joins_united_online_inc_as_executive_vice_president/">
+Promotion Memo, redOrbit, August 1, 2005</a>
+<li><a href="http://investor.untd.com/releasedetail.cfm?releaseid=328874">
+Speaker's Press Release, United Online Corp, Dec 6, 2005</a>
+</ul>
+CIO of CNET Networks
+<ul>
+<li><a href="http://pressreleases.cnetnetworks.com/phoenix.zhtml?c=67325&p=irol-newsArticle&ID=687221&highlight=">
+Hiring Press Release, CNET Networks, Jan 14, 2000</a>
+<li><a href="http://pressreleases.cnetnetworks.com/phoenix.zhtml?c=67325&p=irol-newsArticle&ID=687060&highlight">
+ZDNet Merger / Re-Organization Press Release, CNET Networks, Oct 24, 20005</a>
+<li><a href="http://www.uic.edu/depts/enga/engr420_sp03/cahall.htm">Speaker at
+  University of Illinois at Chicago, March 2003</a>
+<li><a href="http://www.oracle.com/oramag/profit/05-feb/index.html">
+Cover, Oracle Profit Magazine, Feb, 2005</a>
+<li><a href="http://www.oracle.com/oramag/profit/05-feb/p15cnet.html?_template=/ocom/printocom">
+Brave New World, Article, Oracle Profit Magazine, Feb 2005</a>
+</ul>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+
+</body>
+</html>
+

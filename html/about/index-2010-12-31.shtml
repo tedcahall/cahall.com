@@ -1,0 +1,113 @@
+<html>
+<head>
+<title>About Ted Cahall - cahall.com</title>
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("about");
+</script>
+<h1>About Ted Cahall</h1>
+<div class="about">
+<table>
+<tr>
+<td valign="top"><img src="/i/TedHead.jpg" width="137" height="226"></td>
+<div class="about-content">
+<td valign="top">
+Ted Cahall lives in the Bellevue, WA area after spending the previous four years in Northern Virginia where he 
+<a href="http://tedcahall.com/community/">served on the boards</a> of a number of local NoVA business councils 
+as well as non-profits.  
+On sunny weekends you can often find Ted riding his <a href="/harleys/">
+motorcycles</a>,&nbsp; driving his <a href="/corvettes/"> Corvettes</a> or <a href="/racing/">racing</a> his
+<a href="http://wordpress.tedcahall.com/ted-cahall-spec-miata/">Spec Miata</a> with the
+SCCA.  In the winter, he can be found on his <a href="/snowmobile/">snowmobiles</a>.&nbsp;
+A listing of some of his photo albums on <a href="http://community.webshots.com/user/tedcahall">Webshots</a>
+can be found <a href="/about/photo-albums.shtml">here</a>.
+<table width="100%"> <!-- badge table -->
+<tr>
+<td valign="top"> <!-- LinkedIn badge and bullets -->
+<a href="http://www.linkedin.com/in/tedcahall" ><img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.gif" width="160" height="33" border="0" alt="View Ted Cahall's profile on LinkedIn"></a>
+<br>&bull;<a href="http://wordpress.tedcahall.com/"><font size="2">Racing Blog</font></a>
+<br>&bull;<a href="http://ted-cahall.livejournal.com/"><font size="2">Data Center Blog</font></a>
+<br>&bull;<a href="/blogs/"><font size="2">Blog Posts</font></a>
+<br>&bull;<a href="/about/photo-albums.shtml"><font size="2">Photo Albums</font></a>
+</td>
+<td valign="top"> <!-- emurse badge -->
+<table id="emurse_resume_badge_gogomonkey" cellspacing="0" cellpadding="4" border="0" style="border: 2px solid #224f6f ;font-family:arial;font-size:11px;"><tr><th colspan="3" style="border-bottom: 1px solid #224f6f;font-size:12px;color:#fff;background:#4a7b9d;">My Resume</th></tr>
+<tr><td style="text-align: center;"><a href="http://TedCahall.emurse.com/">Web</a></td><td style="text-align: center;"><a href="http://TedCahall.emurse.com/download/doc/">DOC</a></td><td style="text-align: center;"><a href="http://TedCahall.emurse.com/download/pdf/">PDF</a></td></tr>
+<tr><td style="text-align: center;"><a href="http://TedCahall.emurse.com/download/rtf/">RTF</a></td><td style="text-align: center;"><a href="http://TedCahall.emurse.com/download/odt/">ODT</a></td>
+<td style="text-align: center;"><a href="http://TedCahall.emurse.com/download/txt/">TXT</a></td></tr><tr><th colspan="3"><a href="http://www.emurse.com"><img src="http://www.emurse.com/images/badge_powered.gif" alt="powered by emurse" style="width:75px;height:19px;border:0;" width="75" height="19" /></a></th></tr></table>
+</td>
+<td valign="top"> <!-- twitter badge -->
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 6000,
+  width: 250,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#ff2821',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#d9d9d9',
+      color: '#000000',
+      links: '#0735eb'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('Ted_Cahall').start();
+</script>
+</td>
+</tr>
+</table> <!-- badge table -->
+<p>You can reach Ted via e-mail at: cahall at cahall dot com.</p>
+</td>
+</table>
+</div>
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+
+</body>
+</html>
+
+
+

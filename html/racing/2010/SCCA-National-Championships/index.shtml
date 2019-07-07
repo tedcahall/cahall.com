@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Ted Cahall - 2010 SCCA National Championships - cahall.com</title>
+<meta content="Ted Cahall 2010 SCCA National Championships - SCCA Club Racing " name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2010 SCCA National Championships, SCCA Club Racing, Summit Point" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>2010 SCCA National Championship Runoffs</h1>
+<div class="content">
+<img src="/i/SCCA-Runoffs-200.jpg" width="100" align="left" alt="SCCA National Championships"/>
+<img src="ted-cahall-scca-runoffs-2010.jpg" height="250" align="right" alt="Ted Cahall at SCCA National Championships"/>
+The Sports Car Club of America (SCCA) held its National Championships during the week of September 19th. The Spec Miata (SM) class Championship was held on Friday, September 24th. The video can be viewed in two parts: 
+<a href="video-part-1/">Part 1</a> and 
+<a href="video-part-2/">Part 2</a>.
+<p>
+Ted Cahall participated along with five other Meathead Racing drivers: 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>,
+<a href="http://meatheadracing.com/drivers.html#tim">Tim Jacobs</a>,
+<a href="http://meatheadracing.com/drivers.html#neil">Neil O'Rourke</a>,
+David Jacobs and
+<a href="http://meatheadracing.com/drivers.html#chrisc">Chris Collins</a>.
+Out of a field of 63 cars, Tim and Mike finished 19th and 20th respectively.  Ted finished at 29th but was penalized four spots for passing 4 cars under yellow and finished 33rd in his rookie year of national club racing. Unfortunately for David, a ball-joint broke and he was unable to finish the race.
+<p>
+Click on either photo to see more shots on Facebook by Karen Dildei.
+<a href="http://www.facebook.com/album.php?aid=239871&id=662089592&l=581e8265c1">
+<img src="ted-cahall-runoffs.jpg" width="250" alt="Ted Cahall">
+<img src="ted-cahall-scca-nat-champ-2010.jpg" width="250" alt="Ted Cahall at SCCA National Championships"/>
+</a>
+</p>
+<p>
+As always, a huge thank you goes out to 
+<a href="http://meatheadracing.com/crew.html#glenn">Glenn Murphey</a>, 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!
+</p>
+
+
+
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+<br>
+<!--#include virtual="/racing/2010/2010menu.html"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

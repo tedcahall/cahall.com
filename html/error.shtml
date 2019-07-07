@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>Error 404 - Page Not Found - cahall.com</title>
+<meta content="Ted Cahall web site for racing" name="description" />
+<meta content="Ted Cahall, Ted Cahall, racing, AOL, CNET, Corvette, Snowmobile, about" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("home");
+</script>
+
+<div class="large-content">
+<p align="center">
+<strong>ERROR 404</strong>
+<br/>
+<br/>
+<p align="center"><b>The page you requested cannot be found.</b>
+<br/>
+<br/>
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+
+</div> 
+<div id="wrapper-bottom">
+</div>
+</div>
+
+</body>
+</html>
+
+
+

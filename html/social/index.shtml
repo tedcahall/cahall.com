@@ -1,0 +1,88 @@
+<html>
+<head>
+<title>Ted Cahall Social Network Memberships - cahall.com</title>
+<meta content="Ted Cahall Social Networks" name="description" />
+<meta content="Ted Cahall, Ted Cahall, Social Networks, Facebook, MySpace, Twitter" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("social");
+</script>
+
+<h1>Ted Cahall's Social Network Memberships</h1>
+<div class="content">
+<a href="http://cahall.com/job-redirect">
+Ted Cahall</a> has managed several U.S. and International social media plays (<a href="http://classmates.com/">Classmates</a>, StayFriends-<a href="http://www.stayfriends.de/">DE</a>/<a href="http://www.stayfriends.se">SE</a>, <a href="http://www.trombi.com/">Trombi</a>,
+<a href="http://namesdatabase.com/">NamesDatabase</a>, PhotoSite) and is currently a member of numerous business and personal social media sites.  He previously rebuilt the technology platform of
+<a href="http://community.webshots.com/user/tedcahall"> Webshots</a> after CNET bought it.&nbsp;
+You can find
+<a href="http://cahall.com/job-redirect"> Ted Cahall</a> on the following social networks:
+<br><br>
+<table border="1">
+<tr>
+<td><b>Business Networks</b></td><td><b>Personal Networks</b></td><td><b>Messaging</b></td>
+</tr><tr>
+<td><a href="http://www.linkedin.com/pub/0/285/b51">LinkedIn</a></td><td><a href="http://www.bebo.com/Profile.jsp?MemberId=5502876787">Bebo</a> (Now part of AOL)  Other Bebo <a href="http://TedC49.bebo.com/">link</a>.</td><td>AIM (AOL Work): tcahall</td>
+</tr><tr>
+<td><a href="http://www.plaxo.com/directory/profile/51540272178/fe9a8def/Ted/Cahall">Plaxo Pulse</a></td><td><a href="http://twitter.com/Ted_Cahall">Twitter</a></td><td>AIM (personal): tedcahall</td>
+</tr><tr>
+<td><a href="http://tedcahall.emurse.com/">Emurse</a> (Now part of AOL)</td><td><a href="http://www.facebook.com/people/Ted-Cahall/32810529">Facebook</a></td><td>Yahoo!: ted_cahall</td>
+</tr><tr>
+<td><a href="http://www.zoominfo.com/people/Cahall_Ted_1177333382.aspx">ZoomInfo</a></td><td><a href="http://www.classmates.com/directory/public/memberprofile/list.htm?regId=325497471">Classmates</a> (Previously <a href="http://investor.untd.com/releasedetail.cfm?ReleaseID=328887">COO</a> there...)</td><td>MSN: ted_cahall</td>
+</tr><tr>
+<td><a href="http://www.crunchbase.com/person/ted-cahall">CrunchBase</a></td><td><a href="http://community.webshots.com/user/tedcahall">Webshots</a> (Rebuilt
+  while at CNET)</td><td>Skype: tedcahall</td>
+</tr><tr>
+<td><a href="http://www.freebase.com/view/guid/9202a8c04000641f8000000006aa3cc9">Freebase</a></td><td><a href="http://myspace.com/tedcahall">myspace</a></td><td>GTalk: ted.cahall</td>
+</tr><tr>
+<td><a href="http://www.xing.com/profile/Ted_Cahall">Xing</a></td><td><a href="http://www.flickr.com/people/cahall">flickr</a></td><td>&nbsp;</td>
+</tr><tr>
+<td><a href="http://www.spoke.com/profiles/TedCahall">Spoke</a></td><td><a href="http://ted-cahall.livejournal.com">Home Data Center blog on Live Journal</a></td><td>&nbsp;</td>
+</tr><tr>
+<td><a href="http://www.google.com/profiles/ted.cahall">Google Profile</a></td><td><a href="http://wordpress.tedcahall.com">My Racing Blog</a></td><td>&nbsp;</td>
+</tr><tr>
+<td>&nbsp;</td><td><a href="http://cahall.blogspot.com">Blogger</a></td><td>&nbsp;</td>
+</tr><tr>
+<td>&nbsp;</td><td><a href="http://www.youtube.com/tedcahall/">YouTube Racing
+  Videos</a></td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td><a href="http://profiles.yahoo.com/ted_cahall">Yahoo! Profiles</a></td><td>&nbsp;</td>
+</tr>
+</table>
+<p>
+Click <a href="/blogs/">here</a> for recent blog posts by Ted Cahall
+</div>
+
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+<div id="wrapper-bottom"></div>
+
+
+</body>
+</html>

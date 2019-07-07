@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Ted Cahall - 2008 Racing Schedule - cahall.com</title>
+<meta content="Ted Cahall 2008 Racing Schedule and Results" name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2008 NVCC HPDE, 2008 SCCA PDX, AMG Challenge" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+
+<link href="/ddmenu/ddmenu.css" rel="stylesheet" type="text/css" />
+<script src="/ddmenu/ddmenu.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div id="wrapper">
+
+<!--#include virtual="/cahall-tab-menu.shtml"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+<h1>Ted Cahall 2008 Racing Events <img src="index.1.gif" width="61" height="25"></h1>
+<div class="content">
+This is a page of all of the racing events Ted Cahall attended in 2008.&nbsp;
+Ted got a late start in 2008 and missed many of the functions.&nbsp; He also had
+a tough time getting his 2001 Z06 Corvette ready to pass all of the SCCA T1
+class GCRs.
+<br>
+<br>
+<table border="1">
+<tr>
+<td><b>Date(s)</b></td><td><b>Event</b></td><td><b>Location</b></td><td><b>Blog(s)</b></td>
+</tr>
+<tr>
+<td>June 15</td>
+<td><a href="/racing/2008/WDCR-SCCA-PDX.shtml">WDCR SCCA PDX</a></td>
+<td>Summit Point, WV</td>
+<td>&nbsp;</td>
+<tr>
+<td>July 11</td>
+<td><a href="/racing/2008/NVCC-HPDE.shtml">NVCC HPDE</a></td>
+<td>Summit Point, WV</td>
+<td>&nbsp;</td>
+<tr>
+<td>August 6</td>
+<td><a href="/racing/2008/Cecil-County.shtml">Drag raced 2006 Corvette Z06&nbsp;</a></td>
+<td>Cecil County Dragway, MD&nbsp;</td>
+<td><a href="http://wordpress.tedcahall.com/2008/08/10/ted-cahall-at-cecil-county-dragway/">Blog</a></td>
+<tr>
+<td>September 18&nbsp;</td>
+<td><a href="/racing/2008/Pocono.shtml">2008 AMG Challenge</td>
+<td>Pocono Raceway, PA</td>
+<td>&nbsp;</td>
+<tr>
+
+<!-- 
+Cut and paste this code below to add more rows to table
+<tr>
+<td>Date</td>
+<td>Event</td>
+<td>Location</td>
+<td>Blogs</td>
+<tr>
+-->
+</table>
+
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+
+</body>
+</html>
+
+
+

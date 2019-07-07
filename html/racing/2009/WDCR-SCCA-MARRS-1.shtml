@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>Ted Cahall - MARRS 1 SCCA Club Racing - cahall.com</title>
+<meta content="Ted Cahall MARRS 1 SCCA Club Racing" name="description" />
+<meta content="Ted Cahall, Ted Cahall, MARRS 1, SCCA Club Racing" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<div class="large-content">
+Ted Cahall Completes 2009 SCCA MARRS 1 Race
+</div>
+<div class="content">
+On Sunday April 19th, Ted Cahall participated in the SCCA
+MARRS 1 race.&nbsp; The day was held on the Main Course at Summit
+Point.&nbsp; Below is a photo of the car Ted purchased from
+&quot;Bad&quot; Al Bell.&nbsp; Ted finished in position 32 of 44 racers.&nbsp;
+There were a number of racers knocked out on the first lap.&nbsp; <a href="http://wordpress.tedcahall.com/2009/04/19/ted-cahall-completed-his-first-scca-regional-race/">The
+race is covered in detail on Ted Cahall's blog.</a>&nbsp; You can click <a href="http://rides.webshots.com/album/572874381qUIFDM">here</a>
+or on the photo below to see more pictures of the race.
+<p align="center">
+<a href="http://rides.webshots.com/album/572874381qUIFDM">
+<img src="http://inlinethumb57.webshots.com/30456/2991540300057109642S500x500Q85.jpg" 
+alt="Ted Cahall Races in MARRS 1"></a>
+</p>
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+</p>
+</div>
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

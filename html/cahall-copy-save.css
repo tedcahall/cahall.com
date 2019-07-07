@@ -1,0 +1,265 @@
+IMG { border-width: 0; }
+BODY {
+  background: #ffffff;
+  font-family: verdana, helvetica, arial;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+#wrapper {
+  padding: 0;
+  border: 0;
+  margin: 0px auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 764px;
+}
+
+#wrapper-top {
+  width: 764px;
+  height: 87px;
+  font-size: 24px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-image: url("/i/wrapper-top.png");
+}
+
+#wrapper-tab {
+  position: absolute;
+  width: 710px;
+  height: 22px;
+  margin: 0;
+  margin-top: 59px;
+  padding: 0;
+  margin-left: 28px;
+  border: 0;
+}
+
+.tab,.tab-active {
+  float: left;
+  clear: none;
+  margin: 0;
+  margin-left: 3px;
+  padding: 0;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border: 0;
+  width: 85px;
+  height: 16px;
+  text-align: center;
+  font-size: 12px;
+}
+
+.tab-active {
+  background-image: url("/i/tab-active.png");
+  background-repeat: no-repeat;
+}
+
+.tab A:link,.tab-active A:link {
+  color: #000000;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.tab A:visited, .tab-active A:visited {
+  color: #000000;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.tab A:hover, .tab-active A:hover {
+  color: #000060;
+  text-decoration: underline;
+  border-bottom: none;
+}
+
+.tab {
+  background-image: url("/i/tab.png");
+  background-repeat: no-repeat;
+}
+
+.tab A, .tab-active A {
+  display: block;
+  border-bottom: none;
+}
+
+#wrapper-middle {
+  width: 764px;
+  min-height: 200px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-image: url("/i/wrapper-sides.png");
+  background-repeat: repeat-y;
+}
+
+#wrapper-bottom {
+  width: 764px;
+  height: 40px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-image: url("/i/wrapper-bottom.png");
+  background-repeat: no-repeat;
+}
+
+.content {
+  margin: 0;
+  padding-top: 7px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  border: 0;
+  text-align: left;
+  font-size: 12px;
+}
+
+.large-content {
+  margin: 0;
+  padding-top: 7px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  border: 0;
+  text-align: left;
+  font-size: 24px;
+}
+
+.large-no-topbot {
+  margin: 0;
+  padding-top: 0px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 0px;
+  border: 0;
+  text-align: left;
+  font-size: 24px;
+}
+
+.content-bullet {
+  margin: 0;
+  padding-top: 0px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  border: 0;
+  text-align: left;
+  font-size: 12px;
+}
+
+.indented {
+  margin-left: 20px;
+}
+
+.tiny-about {
+  margin: 0;
+  padding-top: 7px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 0px;
+  border: 0;
+  text-align: right;
+  font-size: 10px;
+}
+
+.about {
+  margin: 0;
+  padding-top: 7px;
+  padding-left: 22px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  border: 0;
+  text-align: left;
+  font-size: 10px;
+}
+
+.about-content {
+  margin: 40x;
+  padding-top: 0px;
+  padding-left: 82x;
+  padding-right: 0px;
+  padding-bottom: 10px;
+  border: 0;
+  text-align: left;
+  font-size: 12px;
+}
+
+.footer-content {
+  margin: 0;
+  padding-top: 4px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  border: 0;
+  text-align: center;
+  font-size: 8px;
+}
+
+.picture-gallery {
+  margin: 0;
+  padding-top: 0px;
+  padding-left: 15px;
+  padding-right: 0px;
+  padding-bottom: 10px;
+  border: 0;
+  text-align: center;
+  font-size: 12px;
+}
+
+.hpdate {
+  display: inline; 
+  font-size: 12px; 
+  font-weight: normal;
+}
+
+
+td {
+  font-size: 12px;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 7px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  border: 0;
+  text-align: left;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+h1.hp {
+  margin: 0;
+  padding-top: 7px;
+  padding-left: 0px; /* relative to content div it is in */
+  padding-right: 40px;
+  padding-bottom: 2px;
+  border: 0;
+  text-align: left;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+A {
+  cursor: pointer;
+  text-decoration: none;
+}
+A:link {
+  color: #000040;
+  border-bottom: 1px dotted #000040;
+}
+A:active {
+  border-bottom: none;
+}
+A:visited {
+  color: #404080;
+  border-bottom: 1px dotted #404080;
+}
+A:hover {
+  color: #000040;
+  border-bottom: 1px solid #000040;
+}
+

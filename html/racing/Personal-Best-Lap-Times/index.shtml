@@ -1,0 +1,255 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Ted Cahall - Personal Best Lap Times by Track - cahall.com</title>
+<meta content="Ted Cahall Personal Best Lap Times by Track" name="description" />
+<meta content="Ted Cahall, Ted Cahall, Personal Best Lap Times, SCCA Club Racing, SCCA, Spec Miata, SM, VIR, Summit Point" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<!--#include virtual="/racing/year-submenu.html"-->
+
+<h1>Ted Cahall Personal Best Lap Times by Track&nbsp; &nbsp;<img src="/i/scca.gif" width="61" height="25"></h1>
+<div class="content">
+Ted has raced on a number of different tracks and has compiled a list of personal best lap times.&nbsp; These times are for SM class cars only.  The SM5 and STL class personal best laps are not posted.
+<br>
+<br>
+
+<table border="1">
+<tr>
+<td><b>Track</b></td>
+<td><b>Date</b></td>
+<td><b>Event</b></td>
+<td><b>Fast Lap</b></td>
+</tr>
+
+<tr>
+<td><a href="http://roadamerica.com/">Road America</a></td>
+<td>June 15, 2013</td>
+<td>June Sprints - Saturday Qualifier (<a href="http://scca.cdn.racersites.com/prod/assets/results/13_RA_Grid_GP1.pdf">Grid Sheet)&nbsp;</a></td>
+<td>2:45.820</td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpoint-raceway.com/">Summit Point - Main</a></td>
+<td>May 5, 2013</td>
+<td>Summit Point Super Tour - Race 2 </td>
+<td>1:26.451</td>
+</tr>
+
+<tr>
+<td><a href="http://www.virnow.com/">VIR</a></td>
+<td>April 20, 2013</td>
+<td>VIR Oaktree Super Tour - Race 1<!-- - (<a href="VIR-May-8-2011/">video</a>)--></td>
+<td>2:20.329</td>
+</tr>
+
+<tr>
+<td><a href="http://circuitoftheamericas.com/">CoTA</a></td>
+<td>April 20, 2013</td>
+<td>CoTA Super Tour - Race 1<!-- - (<a href="VIR-May-8-2011/">video</a>)--></td>
+<td>2:45.394</td>
+</tr>
+
+<tr>
+<td><a href="http://www.roeblingroad.com/">Roebling Road</a></td>
+<td>January 27, 2013</td>
+<td>OPM Test Days @ Roebling Road - (<a href="/racing/Personal-Best-Lap-Times/Roebling-Road-January-27-2013/">video</a>)</td>
+<td>1:22.48</td>
+</tr>
+
+<tr>
+<td><a href="http://www.charlottemotorspeedway.com/">Charlotte Motor Speedway&nbsp;</a></td>
+<td>Aug 19, 2012</td>
+<td>MARRS 11<!--(<a href="/racing/Personal-Best-Lap-Times/Watkins-Glen-July-10-2010/">video</a>)--></td>
+<td>1:26.735</td>
+</tr>
+
+<tr>
+<td><a href="http://www.nelsonledges.com/">Nelson Ledges</a></td>
+<td>Aug 4, 2012</td>
+<td>MARRS 9 Qual (STL) </td>
+<td>1:18.298</td>
+</tr>
+
+<tr>
+<td><a href="http://www.theglen.com/">Watkins Glen</a></td>
+<td>May 26, 2012</td>
+<td><a href="/racing/2012/SCCA/MARRS/4-and-5/">MARRS 4</a> <!--(<a href="/racing/Personal-Best-Lap-Times/Watkins-Glen-July-10-2010/">video</a>)--></td>
+<td>2:23.084</td>
+</tr>
+
+<tr>
+<td><a href="http://www.beaverun.com/">BeaveRun</a></td>
+<td>July 30, 2011</td>
+<td><a href="/racing/2011/BeaveRun-National/">National Race</a> - (<a href="/racing/Personal-Best-Lap-Times/BeaveRun-July-30-2011/">video</a>)</td>
+<td>1:10.837</td>
+</tr>
+
+<tr>
+<td><a href="http://www.njmp.com/">NJMP - Thunderbolt</a></td>
+<td>June 5, 2011</td>
+<td><a href="/racing/2011/NJMP-National/">NJMP National</a> 
+(<a href="/racing/Personal-Best-Lap-Times/NJMP-Thunderbolt-June-5-2011/">video</a>)</td>
+<td>1:37.465</td>
+</tr>
+
+<tr>
+<td><a href="http://www.sebringraceway.com/">Sebring Int'l Raceway</a></td>
+<td>Jan 7, 2011</td>
+<td><a href="/racing/2011/CFR-Double-National/">CFR National</a> - Friday Qualifier (<a href="/racing/Personal-Best-Lap-Times/Sebring-January-7-2011/">video</a>)</td>
+<td>2:39.693</td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpoint-raceway.com/">Summit - Shenandoah</a></td>
+<td>October 31, 2009</td>
+<td><a href="/racing/2010/May-PDX-Club-Trial/">PDX / Club Trial</a> - Shenandoah Circuit&nbsp;</td>
+<td>1:47.730</td>
+</tr>
+
+</table>
+
+<br/>
+<h2>Older Fastest Lap Videos</h2>
+<table border="1">
+<tr>
+<td><b>Track</b></td>
+<td><b>Date</b></td>
+<td><b>Event</b></td>
+<td><b>Fast Lap</b></td>
+</tr>
+
+<tr>
+<td><a href="http://www.virnow.com/">VIR</a></td>
+<td>March 10, 2012</td>
+<td><a href="/racing/2012/SCCA/March-Memories/">March Memories</a><!-- - (<a href="VIR-May-8-2011/">video</a>)--></td>
+<td>2:22.501</td>
+</tr>
+
+<tr>
+<td><a href="http://www.virnow.com/">VIR</a></td>
+<td>May 8, 2011</td>
+<td><a href="/racing/2011/MARRS-2-and-3/">MARRS 3</a> - (<a href="VIR-May-8-2011/">video</a>)</td>
+<td>2:23.646</td>
+</tr>
+
+<tr>
+<td><a href="http://www.nelsonledges.com/">Nelson Ledges</a></td>
+<td>July 3, 2011</td>
+<td><a href="/racing/2011/Nelson-Ledges-National/">National Race</a> - (<a href="/racing/Personal-Best-Lap-Times/Nelson-Ledges-July-3-2011/">video</a>)</td>
+<td>1:19.527</td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpoint-raceway.com/">Summit Point - Main</a></td>
+<td>October 10, 2010</td>
+<td><a href="/racing/2010/MARRS-11/">MARRS 11</a> (video lost when laptop stolen)&nbsp;</td>
+<td>1:27.735</td>
+</tr>
+
+<tr>
+<td><a href="http://roadamerica.com/">Road America</a></td>
+<td>Sept 20, 2010</td>
+<td><a href="/racing/2010/SCCA-National-Championships/">National Championships</a> - Monday Qualifier (<a href="/racing/Personal-Best-Lap-Times/Road-America-October-20-2010/">video</a>)&nbsp;</td>
+<td>2:48.437</td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpoint-raceway.com/">Summit Point - Main</a></td>
+<td>September 4, 2010</td>
+<td><a href="/racing/2010/MARRS-9-and-10/">MARRS 9</a> - Qualifying Laps (<a href="Summit-Point-Main-September-4-2010/">video</a>)&nbsp;</td>
+<td>1:28.411</td>
+</tr>
+
+<tr>
+<td><a href="http://www.njmp.com/">NJMP - Thunderbolt</a></td>
+<td>Auguist 22, 2010</td>
+<td><a href="/racing/2010/MARRS-8/">MARRS 8</a> 
+(<a href="/racing/Personal-Best-Lap-Times/NJMP-Thunderbolt-August-22-2010/">video</a>)</td>
+<td>1:40.342</td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpoint-raceway.com/">Summit Point - Main</a></td>
+<td>August 8, 2010</td>
+<td><a href="/racing/2010/MARRS-7/">MARRS 7</a> - Sunday Race (<a href="Summit-Point-Main-August-8-2010/">video</a>)&nbsp;</td>
+<td>1:29.097</td>
+</tr>
+
+<tr>
+<td><a href="http://www.theglen.com/">Watkins Glen</a></td>
+<td>July 10, 2010</td>
+<td><a href="/racing/2010/Watkins-Glen/">Double National</a> - Race 1 (<a href="/racing/Personal-Best-Lap-Times/Watkins-Glen-July-10-2010/">video</a>)</td>
+<td>2:26.100</td>
+</tr>
+
+<tr>
+<td><a href="http://www.nelsonledges.com/">Nelson Ledges</a></td>
+<td>July 4, 2010</td>
+<td><a href="/racing/2010/Nelson-Ledges/">Double National</a> - Race 1 (<a href="/racing/Personal-Best-Lap-Times/Nelson-Ledges-July-3-2010/">video</a>)</td>
+<td>1:20.994</td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpoint-raceway.com/">Summit Point - Main</a></td>
+<td>June 25, 2010</td>
+<td><a href="/racing/2010/MARRS-5/">MARRS 5</a> - Practice Session (<a href="Summit-Point-Main-June-25-2010/">video</a>)&nbsp;</td>
+<td>1:30.361</td>
+</tr>
+
+<tr>
+<td><a href="http://www.virnow.com/">VIR</a></td>
+<td>May 9, 2010</td>
+<td><a href="/racing/2010/MARRS-2-and-3/">MARRS 3</a> - (<a href="VIR-May-9-2010/">video</a>)</td>
+<td>2:24.202</td>
+</tr>
+<tr>
+
+</table>
+
+
+<p align="center">
+<!--#include virtual="/racing/years-menu.shtml"-->
+</p>
+
+</div>
+
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+
+</body>
+</html>
+

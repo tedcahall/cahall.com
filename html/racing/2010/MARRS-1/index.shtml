@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>Ted Cahall - 2010 MARRS 1 - cahall.com</title>
+<meta content="Ted Cahall 2010 MARRS 1 - SCCA Club Racing " name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2010 MARRS 1, SCCA Club Racing, Summit Point" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>2010 MARRS 1 @ Summit Point</h1>
+<div class="content">
+The Mid-Atlantic Road Racing Series (MARRS) held its first regional SCCA Club Racing event of the year on Saturday April 24th and Sunday April 25th.  It rained for the qualifying laps on Saturday but stayed dry for the qualifying race on Saturday afternoon.  The morning times were abysmal across the board as racers got used to the newly paved sections of the track combined with the wet conditions.
+<p>Things picked up rather nicely in the afternoon and Ted had three laps below his previous personal best of 1:31.8 - with his fastest lap coming in at 1:31.0!  Unfortunately he blew his transmission in turn 8 on the final lap and coasted across the finish line.  Had the transmission lasted the whole race, Ted would have finished 17th - his best MARRS finish out of a pack of 33 racers.
+<p>The awesome, incredible Meathead crew replaced the transmission overnight. The race on Sunday was Ted's best finish in a MARRS race.  He started 19th on the grid and finished in 14th place out of 33 cars.  This was the first time Ted finished in the top half.  His best lap of the day was a 1:31.4.  Ted's <a href="/racing/Larry-Cahall/">brother Larry</a> completed his first SCCA race, improved his lap times and did not come in last!
+<p>
+As always, a huge thank you goes out to 
+<a href="http://meatheadracing.com/crew.html#glenn">Glenn</a>, 
+<a href="http://meatheadracing.com/crew.html#sherise">Sherise</a>, 
+<a href="http://meatheadracing.com/crew.html#wendy">Wendy</a>, 
+<a href="http://meatheadracing.com/crew.html#karen">Karen</a>, 
+<a href="http://meatheadracing.com/crew.html#jim">Jimmy</a>, 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!
+</p>
+<p align="center">
+Click on photo below to see more shots.
+<a href="http://rides.webshots.com/album/577386323QGBUSy"><img src="http://inlinethumb12.webshots.com/23883/2667005840057109642S500x500Q85.jpg" alt="Meathead Racing Team"></a>
+</p>
+
+
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+<br>
+<!--#include virtual="/racing/2010/2010menu.html"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

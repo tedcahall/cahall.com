@@ -1,0 +1,91 @@
+<html>
+<head>
+<title>Ted Cahall - 2010 MARRS 2 and 3 - cahall.com</title>
+<meta content="Ted Cahall 2010 MARRS 2 and 3 - SCCA Club Racing " name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2010 MARRS 2 and 3, SCCA Club Racing, Summit Point" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>2010 MARRS 2 and 3 @ VIR</h1>
+<div class="content">
+<img src="ted-cahall-marrs3-2010.jpg" alt="Ted Cahall in MARRS 3 at VIR" width="300" align="right" style="margin-left:6;">
+The Mid-Atlantic Road Racing Series (MARRS) held its second and third regional SCCA Club Racing events of the year on Saturday May 8th and Sunday May 9th down at Virginia International Raceway (VIR).  The event was a combined MARRS / SARRC race - so there were drivers from the South Atlantic division as well as Mid-Atlantic.  <a href="http://meatheadracing.com/">Meathead Racing</a> made it down with a very large contingent of cars for both the SM and SSM classes.  Many of the drivers made it down for the 
+<a href="http://www.facebook.com/album.php?aid=170175&id=662089592&l=cb7116284d">Friday practice sessions (photos)</a>
+as well.
+<p>
+A big thank you to Karen Dildei for the shots on Facebook.
+</p>
+<p>
+The Friday sessions were helpful but Ted was unable to get the car below a 2:27.5.  This was disconcerting as his previous best at the Nationals a few weeks earlier was a 2:24.9.
+<p>
+<img src="ted-cahall-marrs-2-3-test.jpg" alt="Ted Cahall in MARRS 2/3 Test Day at VIR" width="300" align="left" style="margin-right:6;">
+<a href="http://www.facebook.com/album.php?aid=170183&id=662089592&l=c52d1a98d7">Saturday (photos)</a>
+did not prove any better as Ted again had difficulty in his qualifying laps with a 2:28.6 fastest lap which put him on grid in 27th position for the race.  Ted later finished the MARRS 2 race with an almost respectable 2:28.165 best lap time in 23rd place overall. It was good enough for an 11th place finish of the MARRS drivers - which despite the relatively poor lap times, represented Ted's best lifetime MARRS finish.
+<p>
+<a href="http://www.facebook.com/album.php?aid=170189&id=662089592&l=4b35790e4c">Sunday (photos)</a>
+proved to be a fateful day.  Ted's car barely started for the qualifying laps.  When he left the grid to enter the course, the car bogged and he immediately pulled into pit lane.  The car died and needed to be jump started.  Once they had gotten it running, Ted pulled out on the course, only to again have it bog-out once again.  Luckily there is a pit turn-in road and Ted returned to the pits.  Glenn and team quickly worked to replace the battery and Ted was able to make a single qualifying lap before the end of the qualifying session. Upon return, Glenn and team replaced the alternator (the true issue all along).  The car now made TREMENDOUS power!
+<p>
+<img src="ted-cahall-marrs3-thumbs-up.jpg" alt="Ted Cahall in MARRS 3 at VIR" width="300" align="right" style="margin-left:6;">
+Ted started the Sunday MARRS 3 race second to last - in 43rd position.  This was due to the lack of qualifying laps - with only the warm-up lap being timed.  Ted proceeded to pass 17 cars to finish in 24th place overall 
+<a href="MARRS-3-Start/">(see video)</a> and set a 
+<a href="/racing/Personal-Best-Lap-Times/">personal best lap time</a> of 2:24.2 - (<a href="/racing/Personal-Best-Lap-Times/VIR-May-9-2010/">see video</a>)!  It is amazing that the car's on-board systems ran slower because the alternator was dead and the battery was dying.  Ted had his second best MARRS finish in 12th place - after starting from the back of the pack!  Ted also beat his nemesis, <a href="http://ralfracing.com/">Ralph Dommes</a>, in MARRS 3 as Ralph spun in Oak Tree and could not catch back up to the now fast again #77!  Nine out of the 12 laps in MARRS 3 were faster than Ted's best lap time in MARRS 2 - so the problem was the car and not the driver on Friday and Saturday.
+<p>
+As always, a huge thank you goes out to 
+<a href="http://meatheadracing.com/crew.html#glenn">Glenn</a>, 
+<a href="http://meatheadracing.com/crew.html#sherise">Sherise</a>, 
+<a href="http://meatheadracing.com/crew.html#wendy">Wendy</a>, 
+<a href="http://meatheadracing.com/crew.html#karen">Karen</a>, 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!
+</p>
+
+
+
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+<br>
+<!--#include virtual="/racing/2010/2010menu.html"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

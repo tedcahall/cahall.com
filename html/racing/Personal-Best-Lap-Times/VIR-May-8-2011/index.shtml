@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>Ted Cahall - 2011 VIR - Fastest Lap Video - cahall.com</title>
+<meta content="Ted Cahall 2011 VIR Fastest Lap Video - SCCA Club Racing " name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2011 VIR, Fastest Lap Video, SCCA Club Racing, Road America" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>2011 VIR - MARRS 3, Fastest Lap Video: 2:23.646</h1>
+<div class="content">
+Watch the video of Ted Cahall's fastest lap (2:23.646) at VIR during MARRS 3 on May 8th, 2011 as captured by his video camera.
+<p>
+<a href="/racing/2011/MARRS-2-and-3/">Back to MARRS 2/3 Page</a>
+<p align="center">
+<iframe width="640" height="390" src="http://www.youtube.com/embed/NdVCNE1N7yk?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+</p>
+
+<p align="center">
+<!--#include virtual="/racing/2011/2011menu.shtml"-->
+<!--#include virtual="/racing/2011/prev-years-menu.shtml"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>cahall.com - A stuning and smooth popup in jQuery</title>
+	<link rel="stylesheet" href="general.css" type="text/css" media="screen" />
+	<script src="http://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js" type="text/javascript"></script>
+	<script src="popup.js" type="text/javascript"></script>
+</head>
+<body>
+	<center>
+		<img src="logo.jpg" width="600">
+		<div id="button"><input type="submit" value="Press to watch video" /></div>
+	</center>
+	<div id="popupContact">
+		<a id="popupContactClose">x</a>
+		<h1>Ted Cahall MARRS 9 - Fastest Lap Video</h1>
+		<p id="contactArea">
+			jQuery video popup of Ted Cahall YouTube racing video of MARRS 9
+			<br/><br/>
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/wFBWoGa4j0Q?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1&amp;color1=0x5d1719&amp;color2=0xcd311b"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wFBWoGa4j0Q?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1&amp;color1=0x5d1719&amp;color2=0xcd311b" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+
+			<br/><br/>
+			Press ESCAPE, Click on X (right-top) or Click Out from the popup to close the popup!
+		</p>
+	</div>
+	<div id="backgroundPopup"></div>
+</body>
+</html>

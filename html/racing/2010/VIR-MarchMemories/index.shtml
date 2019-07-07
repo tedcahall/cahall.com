@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>Ted Cahall - VIR March Memories - cahall.com</title>
+<meta content="Ted Cahall VIR March Memories - SCCA Club Racing " name="description" />
+<meta content="Ted Cahall, Ted Cahall, VIR March Memories, SCCA Club Racing" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>VIR March Memories</h1>
+<div class="content">
+Ted Cahall participated in the March Memories at VIR on March 5th through 7th
+(<a href="http://rides.webshots.com/album/577131761xHCTQC">see photos on Webshots</a>).&nbsp; It was three
+great days of racing.  Friday was a practice day to help racers tune their cars and get familiar
+with the track.  Saturday was a set of qualifiers for the SARRC race and the Carolina Cup Series - plus
+the Carolina Cup race itself.
+Sunday included the SARRC race, the qualifiers for the Enduro race and the 1.5 hour Enduro.
+It was an action packed weekend with 11 total sessions on the "Full" VIR race track.  Ted's best time was a 
+2:27.1 - which was considerably better than the 2:40+ he did on the Friday practice sessions.
+
+<p align="center">
+<a href="http://rides.webshots.com/album/577131761xHCTQC">
+<img src="http://inlinethumb02.webshots.com/47041/2700839910057109642S500x500Q85.jpg" alt="ted-e2"></a>
+</p>
+<p>As always, a huge thank you goes out to <a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!
+</p>
+
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+<br>
+<!--#include virtual="/racing/2010/2010menu.html"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

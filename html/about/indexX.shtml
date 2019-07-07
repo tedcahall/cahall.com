@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>About Ted Cahall - cahall.com</title>
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+
+<link href="/ddmenu/ddmenu.css" rel="stylesheet" type="text/css" />
+<script src="/ddmenu/ddmenu.js" type="text/javascript"></script>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/cahall-tab-menu.shtml"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("about");
+</script>
+<h1>About Ted Cahall</h1>
+<div class="about">
+<table>
+<tr>
+<td valign="top"><img src="ted-cahall-scca-runoffs-2010.jpg" width="250"/></td>
+<div class="about-content">
+<td valign="top">
+Ted Cahall lives in the Minneapolis, MN area after spending the previous three plus years in the Seattle, WA area and the four years before that in Northern Virginia.
+
+On sunny weekends you can often find Ted riding his <a href="/harleys/">
+motorcycles</a>,&nbsp; driving his <a href="/corvettes/"> Corvettes</a> or <a href="/racing/">racing</a> his
+<a href="http://cahallracing.com/ted-cahall-spec-miata/">Spec Miata</a> with 
+<a href="http://meatheadracing.com/">Meathead Racing</a> in the SCCA.  In the winter, he can be found on his <a href="/snowmobile/">snowmobiles</a>.&nbsp;
+
+<table width="100%"> <!-- badge table -->
+<tr>
+<td valign="top"> <!-- LinkedIn badge and bullets -->
+<a href="http://www.linkedin.com/in/tedcahall" ><img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.gif" width="160" height="33" border="0" alt="View Ted Cahall's profile on LinkedIn"></a>
+<br/>
+<br>&bull;&nbsp;<a href="http://cahallracing.com/"><font size="2">Racing Blog</font></a>
+<br>&bull;&nbsp;<a href="http://cahallracing.com/about-ted-cahall/"><font size="2">Racing Background</font></a>
+<br>&bull;&nbsp;<a href="http://cahallracing.com/ted-cahall-spec-miata/"><font size="2">Spec Miatas</font></a>
+<br>&bull;&nbsp;<a href="http://cahall-labs.com/"><font size="2">Home Data Center Blog</font></a>
+<br>&bull;&nbsp;<a href="http://cahall-labs.com/about-ted-cahall/"><font size="2">Tech Background</font></a>
+<br/><br/>
+<!-- </td>
+</td>
+<td valign="top"> <!-- twitter badge -->
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 6000,
+  width: 250,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#ff2821',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#d9d9d9',
+      color: '#000000',
+      links: '#0735eb'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('Ted_Cahall').start();
+</script>
+</td>
+</tr>
+</table> <!-- badge table -->
+
+</td>
+</table>
+<!-- Facebook Badge START -->
+<a href="http://www.facebook.com/ted.cahall" target="_TOP" title="Ted Cahall">
+<img src="http://badge.facebook.com/badge/32810529.3679.2130848445.png" width="360" height="195" style="border: 0px;" /></a>
+<!-- Facebook Badge END -->
+<p>You can reach Ted via e-mail at: cahall at cahall dot com.</p>
+</div>
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+
+</body>
+</html>
+
+
+

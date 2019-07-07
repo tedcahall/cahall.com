@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>Ted Cahall - May 2010 PDX / Club Trial - cahall.com</title>
+<meta content="Ted Cahall 2010 May PDX and Club Trial - SCCA Club Racing " name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2010 May PDX and Club Trial, SCCA Club Racing, Summit Point" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>May 2010 PDX and Club Trial - Shenandoah Circuit</h1>
+<div class="content">
+Ted and his brother Larry attended the SCCA PDX and Club Trials on May 1st and 2nd.  Larry got considerably faster over the course of the weekend but Ted failed to set a new personal course record for the Shenandoah Circuit with a fast lap of 1:48.6 against a personal best of 1:47.  Larry came in at a 1:53 which is a very respectable time for a rookie with one race under his belt.
+
+<p align="center">
+Movie of Ted's last run of the weekend below.
+<object width="500" height="405"><param name="movie" value="http://www.youtube.com/v/6rQJe-c1AnI&hl=en_US&fs=1&color1=0x5d1719&color2=0xcd311b&border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/6rQJe-c1AnI&hl=en_US&fs=1&color1=0x5d1719&color2=0xcd311b&border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="405"></embed></object>
+</p>
+
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+<br>
+<!--#include virtual="/racing/2010/2010menu.html"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

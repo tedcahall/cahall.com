@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Ted Cahall Snowmobiling - cahall.com</title>
+<meta content="Ted Cahall enjoys riding his snowmobiles in Northern Wisconsin on the Northwoods trails near St. Germain.  He owns a 2005 Polaris Fusion 900 and a 2000 Polaris Indy Triumph (600cc)." name="description" />
+<meta content="Ted Cahall, Ted Cahall, Snowmobile" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+
+<link href="/ddmenu/ddmenu.css" rel="stylesheet" type="text/css" />
+<script src="/ddmenu/ddmenu.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div id="wrapper">
+
+<!--#include virtual="/cahall-tab-menu.shtml"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("snowmobile");
+</script>
+
+<h1>Snowmobiling in the North Woods of Wisconsin</h1>
+<div class="content">
+Ted owns two Polaris snowmobiles and rides them up in the 
+<a href="http://www.northwoodswisconsin.com/snowmobiling.htm">North Woods of Wisconsin</a>
+near his vacation property on 
+<a href="http://www.mapquest.com/maps?name=Little+Saint+Germain+Lake&city=Saint+Germain&state=WI&country=US&latitude=45.926619&longitude=-89.445417&geocode=ADDRESS&id=13408762#a/maps/m::10:45.921256:-89.457064:0:::::/e">
+Little St. Germain Lake.</a>&nbsp; There are extensive trails throughout the North Woods and numerous lakes.&nbsp;
+The trails make for 
+fantastic rides through the "twisties".&nbsp; One of his most favorite activities is going fast across
+the lakes.&nbsp; After a few warm up runs to be sure there are no significant ice bumps, he has
+gotten his Polaris Fusion 900 up to 105mph.&nbsp; He was clocked on radar at 97mph in February of 2008
+on  the 1/8th mile drag strip on the lake at 
+<a href="http://www.bents-camp.com/">Bent's Camp</a>.  The day concluded with a "bikini run".
+<p align="center">
+<table width="98%" colspacing="0" colpadding="0" border="0">
+<tr>
+<td align="center">
+<img src="Polaris900Fusion.jpg" width="400"
+alt="Ted Cahall and his Polaris Fusion 900 Snowmobile"><br>
+2005 Polaris Fusion 900
+</td>
+<td align="center">
+<img src="polaris600triumph.jpg" width="400"
+alt="Ted Cahall's Polaris Indy Triumph 600"><br>
+2000 Polaris Indy Triumph (600cc)
+</td>
+</tr>
+</table>
+</p>
+
+<p>
+Here is a shot from Bent's Camp of two brave bikini clad snowmobilers.&nbsp;&nbsp;
+Ted is the guy with the blue jacket and white cap standing just past the
+windshield.&nbsp; Only in Wisconsin would 
+this be a sport!<p>
+<p align="center">
+<img src="bikini-run.JPG" width="319" height="239">
+</p>
+
+</div>
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+
+</body>
+</html>
+
+
+

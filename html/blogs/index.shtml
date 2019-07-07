@@ -1,0 +1,155 @@
+<html>
+<head>
+<title>Ted Cahall Blog Posts - cahall.com</title>
+<meta content="Ted Cahall Blog Posts" name="description" />
+<meta content="Ted Cahall, Ted Cahall, Blog, Blog Posts, Blogging, Racing Blog" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+
+<link href="menu-vertical.css" rel="stylesheet" type="text/css" />
+<script src="menu-vertical.js" type="text/javascript"></script>
+
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+<!--#include virtual="/tab-menu.html"-->
+
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("social");
+</script>
+
+MENU
+<ul id="menu-v">
+<li><a href="#">2015</a></li>
+<li><a href="#">2014</a></li>
+<li><a href="#">2013</a></li>
+<li><a href="#">2012</a></li>
+</ul>
+
+<h1>Some of Ted Cahall's Blog Posts</h1>
+<div class="content">
+Ted Cahall maintains a couple of blogs here and there.&nbsp; Possibly they will all be
+consolidated some day.&nbsp; Until then, the posts are also reachable from here
+as well.<p><b>S<a href="http://wordpress.tedcahall.com/">CCA, Drag Racing, and
+Motorcycle Events:</b></a>
+</p>
+<ul>
+<li><a href="http://wordpress.tedcahall.com/2009/12/13/ted-cahall-hits-202mph-legally/">Ted
+  Cahall Hits 202mph - Legally!</a></li>
+<li><a href="http://wordpress.tedcahall.com/2009/11/15/took-4th-place-in-emra-sprints/">Took
+  4th Place in EMRA Sprints</a></li>
+<li><a href="http://wordpress.tedcahall.com/2009/11/15/took-3rd-place-in-emra-4-hour-enduro/">Took
+  3rd Place in EMRA 4 Hour Enduro</a></li>
+<li><a href="http://wordpress.tedcahall.com/2009/05/31/ted-cahall-gets-his-scca-regional-racing-license/">Raced
+  in MARRS 4 and got my Regional Club Racing License</a></li>
+<li><a href="http://wordpress.tedcahall.com/2009/05/25/ted-cahall-rolling-thunder/">Rode
+  to DC in Rolling Thunder!</a></li>
+<li><a href="http://wordpress.tedcahall.com/2009/05/22/ted-cahall-world-class-driving-tour/">World
+        Class Driving Tour</a></li>
+<li><a href="http://wordpress.tedcahall.com/2009/05/16/ted-cahall-on-board-uss-truman-part-2/">Ted
+        Cahall on board USS Truman - Part 2</a></li>
+<li><a href="http://wordpress.tedcahall.com/2009/05/10/myrtle-beach-bike-week-2009/">Myrtle
+        Beach Bike Week - 2009</a></li>
+<li><a href="http://wordpress.tedcahall.com/2009/05/07/ted-cahall-visits-uss-truman-part-1/">Ted
+        Cahall visits USS Truman - Part 1</a></li>
+<li><a href="http://wordpress.tedcahall.com/2009/05/04/flying-out-to-the-uss-truman-in-the-atlantic-ocean/">Flying
+        out to the USS Truman in the Atlantic Ocean</a></li>
+  <li><a href="http://wordpress.tedcahall.com/2009/04/26/why-does-almost-everything-fun-require-a-helmet/">Why
+    does (almost) everything fun require a helmet?</a></li>
+  <li><a href="http://wordpress.tedcahall.com/2009/04/19/ted-cahall-completed-his-first-scca-regional-race/">SCCA
+    MARRS 1 Club Race</a></li>
+  <li><a href="http://wordpress.tedcahall.com/2009/04/12/ted-cahall-at-scca-club-trials-at-summit-point/">SCCA
+    Spring Club Trials</a></li>
+  <li><a href="http://wordpress.tedcahall.com/2009/04/04/ted-cahall-2009-scca-spring-pdx/">SCCA
+    Spring PDX</a></li>
+  <li><a href="http://wordpress.tedcahall.com/2009/03/29/ted-cahall-at-scca-driving-school-day-2/">SCCA
+    Spring Driving School - Day 2</a></li>
+  <li><a href="http://wordpress.tedcahall.com/2009/03/28/ted-cahall-attends-scca-driving-school-day-1/">SCCA
+    Spring Driving School - Day 1</a></li>
+  <li><a href="http://wordpress.tedcahall.com/2009/03/21/scheduling-snafu-delays-200mph-attempt/">Scheduling
+    Snafu Delays 200 MPH Attempt</a></li>
+  <li><a href="http://wordpress.tedcahall.com/2009/03/17/the-more-you-know-the-more-you-dont-know/">The
+    More You Know - The More You Don't Know</a></li>
+  <li><a href="http://wordpress.tedcahall.com/2009/03/14/ted-cahall-races-the-clock-to-be-ready-for-first-race/">Racing
+    the Clock to be Ready for my First SCCA Race</a></li>
+  <li><a href="http://wordpress.tedcahall.com/about-ted-cahall/">Ted Cahall's
+    Racing and SCCA Experiences</a></li>
+  <li><a href="http://wordpress.tedcahall.com/2009/03/11/ted-cahall-installs-corbeau-seats-in-2001-z06-corvette/">Installing
+    Corbeau Seats in my 2001 Z06 Corvette</a></li>
+<li><a href="http://wordpress.tedcahall.com/2009/03/01/ted-cahall-breaks-the-200mph-barrier-soon/">Ted
+  Cahall Breaks the 200MPH Barrier - soon...</a>
+<li><a href="http://wordpress.tedcahall.com/2009/02/28/ted-cahall-maintains-that-work-race-balance/">Maintaining
+  that &quot;work / race&quot; balance</a>
+<li><a href="http://wordpress.tedcahall.com/2009/02/22/ted-cahall-prepares-for-scca-racing-in-2009/">Preparing
+  for SCCA Racing in 2009</a>
+<li><a href="http://wordpress.tedcahall.com/2008/08/10/ted-cahall-at-cecil-county-dragway/">Drag
+  Racing my 2006 Corvette Z06 at Cecil County Dragway</a>
+<li><a href="http://wordpress.tedcahall.com/2005/03/20/ted-cahall-infineon-raceway-z06-corvette/">Drag
+  Racing my 2001 Corvette Z06 at Infineon Raceway</a>
+</ul>
+
+<p><b><a href="http://ted-cahall.livejournal.com/">Software, Computers, Home
+Data Center</a>:</b>
+</p>
+<ul>
+<li><a href="http://ted-cahall.livejournal.com/3152.html">USB Connectors and
+  Memory Cards</a>
+<li><a href="http://ted-cahall.livejournal.com/3019.html">Kubuntu and Wubi</a>
+<li><a href="http://ted-cahall.livejournal.com/2674.html">Ubuntu and Debian
+  Installation Fun!</a>
+<li><a href="http://ted-cahall.livejournal.com/2444.html">Windows 7, Snow
+  Leopard, and trying to edit race cam videos...</a>
+<li><a href="http://ted-cahall.livejournal.com/2240.html">AOL Wins Green IT
+  Award from Uptime Institute</a>
+<li><a href="http://ted-cahall.livejournal.com/1941.html">Internet Architecture
+  Video post</a>
+<li><a href="http://ted-cahall.livejournal.com/1621.html">More Servers in my
+  Home Data Center!</a>
+<li><a href="http://ted-cahall.livejournal.com/1282.html">CentOS Rocks</a>
+<li><a href="http://ted-cahall.livejournal.com/1038.html">Home Data Center
+  Drudgery</a>
+<li><a href="http://ted-cahall.livejournal.com/900.html">Original Infineon
+  Raceway Post</a>
+<li><a href="http://ted-cahall.livejournal.com/727.html">Fedora Core 3 (really
+  old post)</a>
+<li><a href="http://ted-cahall.livejournal.com/413.html">Social Scribblings
+  (when I met Brad Fitz)</a>
+</ul>
+
+<br>
+Some other photo albums of <a href="http://tedcahall.emurse.com/">Ted Cahall</a>'s
+cars, motorcycle and snowmobiles are
+<a href="http://community.webshots.com/user/tedcahall">here</a>.
+
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+
+</body>
+</html>
+
+
+

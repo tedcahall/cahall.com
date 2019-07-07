@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+
+<head>
+<title>Ted Cahall - 2010 MARRS 9 and 10 - cahall.com</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta content="Ted Cahall 2010 MARRS 9 and 10 - SCCA Club Racing " name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2010 MARRS 9 and 10, SCCA Club Racing, Summit Point" name="keywords" />
+
+
+<script src="http://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js" type="text/javascript"></script>
+<script src="/v/videopopup.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+<link rel="stylesheet" href="/v/videopopup.css" type="text/css" media="screen" />
+<script type="text/javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body>
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script type="text/javascript">
+set_tab("racing");
+</script>
+
+<h1>2010 MARRS 9 and 10 - Labor Day Double</h1>
+<div class="content">
+<img src="ted-cahall-marrs9-lead.jpg" width="300" height="200" align="left" alt="Ted Cahall in Marrs 9" style="margin-right:6px;"/>
+The Mid-Atlantic Road Racing Series (MARRS) held its "Labor Day Double" ninth and tenth regional SCCA Club Racing events of the year on Saturday September 4th through Monday September 6th at Summit Point Raceway in West Virginia.
+<a href="http://www.meatheadracing.com/drivers.html#ted">Ted Cahall</a> and his brother Larry started the week a bit early by attending a private track day on Thursday and then the standard practice session on Friday. The practice paid off as both Ted and Larry set personal best lap times during the weekend with Larry dropping over 4 seconds to a 1:31.9. Go Larry!
+<p>
+In MARRS 9 on Saturday, Ted ran a 1:28.411 qualifying lap, his fastest ever, 
+<!-- <button id="button">Press to watch video</button> -->
+<!-- (<a id="button"><strong>click to see video</strong></a>) -->
+(<a onClick="renderPopup('popupContact');return false"><strong>click to see video</strong></a>)
+<!--
+(<a href="/racing/Personal-Best-Lap-Times/Summit-Point-Main-September-4-2010/"><strong>see video</strong></a>) 
+-->
+to grid 7th in the race. Later on Saturday, Ted ran a good race and finished 9th - with a 1:28.535 fastest lap
+(<a href="http://www.facebook.com/album.php?aid=234355&amp;id=662089592&amp;l=9d9e4bbe3e">see photos of Saturday's action</a>). 
+This was Ted's first MARRS top ten finish!
+</p>
+<p>
+<img src="ted-cahall-marrs9-2010.jpg" width="300" height="200" align="right" alt="Ted Cahall in Marrs 9" style="margin-left:6px;"/>
+Sunday was not quite as kind. He qualified 14th in the morning. In the afternoon qualifying race, he spun in turn 1 
+<!-- (<a href="spin-in-turn-1/"><strong>see video</strong></a>) -->
+(<a onClick="renderPopup('popupContact2');return false"><strong>click to see video</strong></a>)
+on brand new tires / brakes / rotors (and 47 lbs of pressure in the left rear tire) and finished 27th (<a href="http://www.facebook.com/album.php?aid=234359&amp;id=662089592&amp;l=82810adf2a">see photos of Sunday's action</a>). On Monday, Ted again gridded 14th but this time kept his car on the track and was able to finish in 13th place after briefly moving up to tenth position on a really good start 
+(<a href="http://www.facebook.com/album.php?aid=234371&amp;id=662089592&amp;l=52429aa25a">see photos of Monday's action</a>).
+</p>
+<p>
+It was a great weekend for <a href="http://www.meatheadracing.com/">Meathead Racing</a>! <a href="http://www.meatheadracing.com/drivers.html#mike">Mike "Meathead" Collins</a> won all three races.  <a href="http://www.meatheadracing.com/drivers.html#tim">Tim Jacobs</a> set the lap record on Sunday and then again on Monday with a 1:26.1 - shattering the previous record by more than a second! <a href="http://www.meatheadracing.com/drivers.html#grego">Greg Obadia</a> also set the SSM track record on Monday with a 1:27.7.
+</p>
+<p align="center">
+Click on photo below to see full size.
+<a href="http://cahall.com/racing/2010/MARRS-9-and-10/Ted-pulling-the-train.jpg">
+<img src="Ted-pulling-the-train.jpg" width="600" height="368" alt="Ted Cahall"/></a>
+</p>
+
+<div id="popupContact">
+<a id="popupContactClose" class="popupContactCloseClass">x</a>
+<h1>Ted Cahall MARRS 9 - Fastest Lap Video</h1>
+<p id="contactArea">
+<!-- text will render here...  jQuery video popup of Ted Cahall YouTube racing video of MARRS 9 -->
+<br/>
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/wFBWoGa4j0Q?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1&amp;color1=0x5d1719&amp;color2=0xcd311b"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wFBWoGa4j0Q?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1&amp;color1=0x5d1719&amp;color2=0xcd311b" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+
+Press ESCAPE, Click on X (top-right) or Click Out from the popup to close the popup!
+</p>
+</div>
+
+<div id="popupContact2">
+<a id="popupContactClose2" class="popupContactCloseClass">x</a>
+<h1>Ted Cahall MARRS 10 - Spin in Turn 1 :(</h1>
+<p id="contactArea2">
+<br/>
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/zA43OrAHjpg?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1&amp;color1=0x5d1719&amp;color2=0xcd311b"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/zA43OrAHjpg?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1&amp;color1=0x5d1719&amp;color2=0xcd311b" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+
+Press ESCAPE, Click on X (top-right) or Click Out from the popup to close the popup!
+</p>
+</div>
+
+<div id="backgroundPopup"></div>
+
+<p>
+As always, a huge thank you goes out to 
+<a href="http://meatheadracing.com/crew.html#glenn">Glenn</a>, 
+<a href="http://meatheadracing.com/crew.html#sherise">Sherise</a>, 
+<a href="http://www.meatheadracing.com/crew.html#jim">Jimmy</a>, 
+<a href="http://meatheadracing.com/crew.html#wendy">Wendy</a>, 
+<a href="http://meatheadracing.com/crew.html#karen">Karen</a>, 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!
+</p>
+
+
+
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br/>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+<br/>
+<!--#include virtual="/racing/2010/2010menu.html"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>

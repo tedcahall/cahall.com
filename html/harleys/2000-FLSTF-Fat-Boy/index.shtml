@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Ted Cahall Harley-Davidson Fat Boy - cahall.com</title>
+<meta content="Ted Cahall owns a 2000 Harley-Davidson Fat Boy Motorcycle.  He bought it from McGuire's Harley-Davidson in Walnut Creek California." name="description" />
+<meta content="Ted Cahall, Ted Cahall, Harley-Davidson, Harley, Motorcycle" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+
+<link href="/ddmenu/ddmenu.css" rel="stylesheet" type="text/css" />
+<script src="/ddmenu/ddmenu.js" type="text/javascript"></script>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/cahall-tab-menu.shtml"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("harleys");
+</script>
+<h1>Ted Cahall's&nbsp; 2000 Harley-Davidson Fat Boy (FLSTF)</h1>
+<div class="content">
+Ted has owned three Harley-Davidson motorcycles: a heavily modified Sportster, a 2000 Fat Boy
+(FLSTF) and a recently purchased <a href="/harleys/2009-FLTRSE-Road-Glide/">2009
+Screamin' Eagle Road Glide</a>.&nbsp; 
+He has done some serious engine
+modifications to his <a href="http://rides.webshots.com/album/254191482daIFBP">Fat
+Boy</a> including: larger cylinders and pistons (96 ci), 43mm Mikuni Carburetor,
+a fairly hot cam, Vance &amp; Hines Pipes and a bunch of chrome.
+<p>Most people tell him it is the loudest motorcycle they have ever heard (or had
+the pain of riding near).&nbsp; As the old saying goes, &quot;loud pipes save
+lives&quot;.&nbsp; The intention was never to make it so loud, but to make it
+much faster than a stock Harley Fat Boy.&nbsp; It is a fast Harley that just
+happens to be very loud.&nbsp;&nbsp;</p>
+<p>The photo below is before Ted did any of the current modifications to the
+engine, chrome, etc.&nbsp; You can click on the photo to see more shots of it on
+Webshots.</p>
+<p align="center">
+<a href="http://rides.webshots.com/photo/1254192794057109642YWfGag">
+<img src="fatboy-lg.jpg" 
+alt="Ted Cahall's 2000 Harley Fatboy before the mods"></a></p>
+<p align="center">
+<!--#include virtual="/toy-menu.html"-->
+</p>
+
+</div>
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+
+</body>
+</html>
+
+
+

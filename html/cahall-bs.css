@@ -1,0 +1,51 @@
+img { border-width: 0; }
+
+.picture-gallery {
+  margin: 0;
+  padding-top: 0px;
+  padding-left: 15px;
+  padding-right: 0px;
+  padding-bottom: 10px;
+  border: 0;
+  text-align: center;
+  font-size: 12px;
+}
+
+.hpdate {
+  display: inline; 
+  font-size: 12px; 
+  font-style: italic;
+  text-align: left;
+  align: left;
+}
+
+h1.hp {
+  margin: 0;
+  padding-top: 7px;
+  padding-left: 0px; /* relative to content div it is in */
+  padding-right: 40px;
+  padding-bottom: 2px;
+  border: 0;
+  text-align: left;
+  font-size: 14px;
+  font-weight: bold;
+  clear: left;
+}
+
+h2.hp {
+  margin: 0;
+  padding-top: 7px;
+  padding-left: 0px; /* relative to content div it is in */
+  padding-right: 40px;
+  padding-bottom: 2px;
+  border: 0;
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+  clear: left;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+

@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Highslide JS - Custom Example</title>
+
+<script type="text/javascript" src="highslide/highslide-with-gallery.js"></script>
+<script type="text/javascript" src="highslide/highslide.config.js" charset="utf-8"></script>
+<link rel="stylesheet" type="text/css" href="highslide/highslide.css" />
+
+</head>
+<body>
+
+<a href="highslide/images/large/0-MARRS-5-start-0-Ted-Cahall.jpg" class="highslide" 
+	title="" onclick="return hs.expand(this, config1 )">
+	<img src="highslide/images/thumbs/0-MARRS-5-start-0-Ted-Cahall.jpg"  alt=""/>
+</a>
+
+<h3>Gallery</h3>
+<div class="highslide-gallery">
+	<ul>
+	<li>
+	<a href="highslide/images/large/0-MARRS-5-start-0-Ted-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/0-MARRS-5-start-0-Ted-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/1-MARRS-5-start-1.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/1-MARRS-5-start-1.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/2-MARRS-5-start-2.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/2-MARRS-5-start-2.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/3-MARRS-5-start-3.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/3-MARRS-5-start-3.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/4-MARRS-5-start-4-Bob-Larry.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/4-MARRS-5-start-4-Bob-Larry.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/5-MARRS-5-start-5-Bob-Larry.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/5-MARRS-5-start-5-Bob-Larry.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/6-MARRS-5-start-6-Bob-Larry.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/6-MARRS-5-start-6-Bob-Larry.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-lap-1-Ted-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-lap-1-Ted-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-15-Ted-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-15-Ted-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-2-Bob-Larry.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-2-Bob-Larry.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-4-Bob-Larry.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-4-Bob-Larry.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-3-Bob-Larry.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-3-Bob-Larry.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-6-Bob-Larry.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-6-Bob-Larry.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-5-Bob-Larry.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-5-Bob-Larry.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-0-Ted-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-0-Ted-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-13-Bob-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-13-Bob-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-16-Larry-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-16-Larry-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-7-Ted-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-7-Ted-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-8-Ted-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-8-Ted-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-9-Ted-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-9-Ted-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-12-Ted-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-12-Ted-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-10-Bob-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-10-Bob-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-14-Ted-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-14-Ted-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-11-Ted-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-11-Ted-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	<li>
+	<a href="highslide/images/large/MARRS-5-race-17-Bob-Cahall.jpg" class="highslide" 
+			title="" 
+			onclick="return hs.expand(this, config1 )">
+		<img src="highslide/images/thumbs/MARRS-5-race-17-Bob-Cahall.jpg"  alt=""/>
+	</a>
+	</li>
+	</ul>
+	<div style="clear:both"></div></div>
+
+</body>
+</html>

@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Ted Cahall SCCA Club Racing Events - cahall.com</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta content="Ted Cahall SCCA Club Racing EVents. Ted Cahall races his Spec Miata and Z06 Corvettes in several road racing and high performance driving events each year." name="description" />
+<meta content="Ted Cahall, Ted Cahall, SCCA, racing, Spec Miata, Corvette, Z06, SCCA Club Racing" name="keywords" />
+
+<script src="http://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js" type="text/javascript"></script>
+<script src="/v/videopopup.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+<link rel="stylesheet" href="/v/videopopup.css" type="text/css" media="screen" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+
+<link href="/ddmenu/ddmenu.css" rel="stylesheet" type="text/css" />
+<script src="/ddmenu/ddmenu.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div id="wrapper">
+
+<!--#include virtual="/cahall-tab-menu.shtml"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+<h1>Ted Cahall SCCA Club Racing </h1>
+<div class="content">
+<a onClick="renderPopup('popupContact');return false">
+<img style="margin-left:6px;" src="ted-marrs10-qrace.jpg" align="right" width="300" alt="Ted Cahall in #77 Spec Miata"></a>
+Ted Cahall is a member of the Sports Car Club of America (SCCA) and holds an SCCA Club Racing National Competition License.&nbsp; 
+He has raced in the SCCA Club Racing National Championship Runoffs in <a href="/racing/2010/SCCA-National-Championships/">2010</a>, <a href="/racing/2011/SCCA-National-Championships/">2011</a> and 2013.
+
+He races the #77 Spec Miata pictured right
+(<a onClick="renderPopup('popupContact');return false"><strong>click for larger photo</strong></a>)
+and is a proud member of the <a href="http://meatheadracing.com/drivers.html#ted">Meathead Racing</a> team.
+Ted races regionally in the Mid-Atlantic Road Racing Series (MARRS) as part of the 
+<a href="http://www.wdcr-scca.org/">Washington DC Region (WDCR)</a>.&nbsp;He finished 10th in the 2010 series 11th in 2011, 9th in 2012 and 5th in 2013.</p>
+<p>
+Ted's brother <a href="/racing/Larry-Cahall/">Larry Cahall</a> also raced in the 2010 through 2013 seasons and their brother 
+<a href="/racing/Bob-Cahall/">Bob Cahall</a> joined them in 2011 for his rookie season.</p>
+<p>
+Read more about 
+<a href="http://cahallracing.com/about-ted-cahall/">Ted's intro to the SCCA</a>, 
+his <a href="http://cahallracing.com/ted-cahall-spec-miata/">Spec
+Miata</a>, and racing on his 
+<a href="http://cahallracing.com/">Racing Blog</a>.
+See his <a href="/racing/Personal-Best-Lap-Times/">fastest laps on each course</a> as well as
+<a href="http://www.youtube.com/tedcahall">racing videos on YouTube</a>.&nbsp; 
+Links below the following table show individual events. 
+
+</p>
+
+
+
+<table width="70%" border="1" align="center">
+<tr>
+<td>&nbsp;</td><td><strong>2015</strong></td><td><strong>2014</strong></td><td><strong>2013</strong></td><td><strong>2012</strong></td><td><strong>2011</strong></td><td><strong>2010</strong></td><td><strong>2009</strong></td><td><strong>2008</strong></td>
+</tr>
+
+<tr>
+<td><strong>Schedule</strong></td><td><a href="/racing/2015/SCCA/">Events</a></td><td><a href="/racing/2014/SCCA/">Events</a></td><td><a href="/racing/2013/SCCA/">Events</a></td><td><a href="/racing/2012/SCCA/">Events</a></td><td><a href="/racing/2011/">Events</a></td><td><a href="/racing/2010/">Events</a></td><td><a href="/racing/2009/">Events</a></td><td><a href="/racing/2008/">Events</a></td>
+</tr>
+
+<tr>
+<td><strong>MARRS</strong></td><td>N/A</td><td><a href="/racing/2014/SCCA/MARRS/Points/">Results</a></td><td><a href="/racing/2013/SCCA/MARRS/Points">Results</a></td><td><a href="/racing/2012/SCCA/MARRS/Points">Results</a></td><td><a href="/racing/2011/MARRS-Points">Results</a></td><td><a href="/racing/2010/MARRS-Points/">Results</a></td><td><a href="/racing/2009/MARRS-Points/">Results</a></td><td>N/A</td>
+</tr>
+
+<tr>
+<td><strong>National</strong></td><td>N/A</td><td><a href="/racing/2014/SCCA/Majors/Points/">Results</a></td><td><a href="/racing/2013/SCCA/Nationals/Points/">Results</a></td><td>N/A</td><td><a href="/racing/2011/Non-MARRS-Results/">Results</a></td><td><a href="/racing/2010/Non-MARRS-Results/">Results</a></td><td>N/A</td><td>N/A</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="/i2/sccaclub-174.jpg" width="174">&nbsp;<img src="/i2/NESCCAnr-206.jpg" width="206">&nbsp;<img src="/i2/marrs-152.gif" width="152">
+</p>
+<!--
+<p align="center">
+<img src="ted-marrs10-qrace.jpg" alt="Ted Cahall in #77 Spec Miata">
+</p>
+-->
+
+
+<div id="popupContact">
+<a id="popupContactClose" class="popupContactCloseClass">x</a>
+<h1>Ted Cahall #77 at Summit Point, WV</h1>
+<p id="contactArea">
+<!-- text will render here...  jQuery video popup of Ted Cahall YouTube racing video of MARRS 9 -->
+<br/>
+<img src="ted-marrs10-qrace.jpg" alt="Ted Cahall in #77 Spec Miata">
+
+Press ESCAPE, Click on X (top-right) or Click Out from the popup to close the popup!
+</p>
+</div>
+
+<div id="backgroundPopup"></div>
+
+<p align="center">
+<!--#include virtual="/racing/years-menu.shtml"-->
+</p>
+</div>
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+

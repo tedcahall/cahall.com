@@ -1,0 +1,4 @@
+Options +Indexes
+IndexOptions FancyIndexing NameWidth=* DescriptionWidth=*
+AddDescription "Ralph's Watkins Glen crash as recorded by Dave's video" DaveJacobsWatkinsGlenCrash.wmv
+AddDescription "Ralph's Watkins Glen crash as recorded by his own video" RalphDommes-WatkinsGlen-Crash.wmv

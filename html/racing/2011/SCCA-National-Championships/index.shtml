@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<title>Ted Cahall - 2011 SCCA National Championships - cahall.com</title>
+<meta content="Ted Cahall 2011 SCCA National Championships - SCCA Club Racing " name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2011 SCCA National Championships, SCCA Club Racing, Road America" name="keywords" />
+
+<script type="text/javascript" language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+
+<script src="http://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js" type="text/javascript"></script>
+<script src="/v/videopopup.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+<link rel="stylesheet" href="/v/videopopup.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>2011 SCCA National Championship Runoffs</h1>
+<div class="content">
+<img src="/i2/scca-runoffs-2011-304.jpg" width="260" align="left" alt="SCCA National Championships"/>
+
+Come watch Ted Cahall compete as the Sports Car Club of America (SCCA) holds its National Championships during the week of September 18th. This will be Ted's second season at the SCCA National Championship Runoffs.
+<p>
+<img src="sm-75-and-77-nat-champ-548.jpg" width="548" align="right" alt="SCCA National Championships"/>
+Ted Cahall plans to participate with 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+as one of the two cars from the <a href="http://meatheadracing.com/">Meathead Racing team</a> based in Summit Point, WV.
+<p>
+Click on either photo below to see shots of the 2010 Championships on Facebook by Karen Dildei.
+<br/>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_google_plusone"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e3cbda1186f6ef3"></script>
+<!-- AddThis Button END -->
+</td><td>&nbsp;&nbsp;&nbsp;&nbsp;
+<iframe src="http://www.facebook.com/plugins/like.php?href=cahall.com/racing/2011/SCCA-National-Championships/"
+scrolling="no" frameborder="0" style="border:none; width:300px; height:65px;margin-bottom:0px;padding-bottom:0px;"></iframe>
+
+<div style="width:800" align="center">
+
+<a href="http://www.facebook.com/album.php?aid=239871&id=662089592&l=581e8265c1">
+
+<img src="/racing/2010/SCCA-National-Championships/ted-cahall-runoffs.jpg" width="250" alt="Ted Cahall">
+<img src="/racing/2010/SCCA-National-Championships/ted-cahall-scca-nat-champ-2010.jpg" width="250" alt="Ted Cahall at SCCA National Championships"/>
+</a>
+</div>
+</p>
+
+<!--
+<p>
+As always, a huge thank you goes out to 
+<a href="http://meatheadracing.com/crew.html#glenn">Glenn Murphey</a>, 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!
+</p>
+-->
+
+
+<p align="center">
+<!--#include virtual="/racing/2011/2011menu.shtml"-->
+<!--#include virtual="/racing/2011/prev-years-menu.shtml"-->
+</p>
+
+</div>
+
+<!-- A car hit Ted on the left side and spun - knocking itself and another car out of the race. This happened just 50 feet past the start/finish line (<a onClick="renderPopup('popupContact');return false"><strong>click to see video</strong></a>).  
+-->
+
+<div id="popupContact">
+<a id="popupContactClose" class="popupContactCloseClass">x</a>
+<h1>Nelson Ledges SM Start Crash</h1>
+<p id="contactArea">
+<!-- text will render here...  jQuery video popup of Ted Cahall YouTube racing video of MARRS 1 -->
+<br/>
+<iframe width="640" height="510" src="http://www.youtube.com/embed/2dhSSmlFsDg?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+
+Press ESCAPE, Click on X (top-right) or Click Out from the popup to close the popup!
+</p>
+</div>
+
+<div id="backgroundPopup"></div>
+
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>

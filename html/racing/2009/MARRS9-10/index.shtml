@@ -1,0 +1,74 @@
+<html>
+<head>
+<title>Ted Cahall MARRS 9, 10 - SCCA Club Racing - cahall.com</title>
+<meta content="Ted Cahall MARRS 9, 10 - SCCA Club Racing " name="description" />
+<meta content="Ted Cahall, Ted Cahall, MARRS 9, MARRS 10, SCCA Club Racing, Labor Day" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>MARRS 9 and 10 Labor Day, New Personal Best Lap</h1>
+<div class="content">
+Ted Cahall participated in the <a href="http://community.webshots.com/album/574644971xBPptP">SCCA MARRS 9 and 10 races on Labor Day
+weekend</a>. Ted's fastest lap times
+on Saturday and Sunday were similar to his best times at MARRS 4, 5, and
+7.&nbsp; The Saturday morning qualifier
+session produced a 1:35.510, the Sunday race produced a 1:35.721.&nbsp; The main
+20 lap race on Monday was a different story.&nbsp;&nbsp; Up to that point, Ted's
+fastest lap ever was a mid 1:33.&nbsp; Ted was faster than that on 11 of the 19
+laps and broke the 1:33 barrier on 7 of those laps.&nbsp; His fastest lap was a
+1:32.260.<p>Monday's fastest lap was Ted Cahall's fastest recorded time on the Summit Point
+&quot;Main&quot; Course ever.&nbsp; The photo below is out on the grid before
+the Sunday race with the &quot;Umbrella Lady&quot;.&nbsp; It was hot, so the
+Nomex suit was not zippered until he got in the car.
+<p align="center">
+<a href="http://community.webshots.com/album/574644971xBPptP">
+<img src="http://inlinethumb10.webshots.com/43465/2444152000057109642S500x500Q85.jpg" 
+alt="IMG_1911"></a>
+</p>
+
+
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

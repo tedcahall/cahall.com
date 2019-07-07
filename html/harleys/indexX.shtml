@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Ted Cahall Harley-Davidson Motorcycles - cahall.com</title>
+<meta content="Ted Cahall owns two Harley-Davidson Motorcycles: a 2000 Fatboy and a 2009 Screamin' Eagle Road Glide" name="description" />
+<meta content="Ted Cahall, Ted Cahall, Harley-Davidson, Harley, Motorcycle" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+
+<link href="/ddmenu/ddmenu.css" rel="stylesheet" type="text/css" />
+<script src="/ddmenu/ddmenu.js" type="text/javascript"></script>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/cahall-tab-menu.shtml"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("harleys");
+</script>
+<h1>Ted Cahall's Harley-Davidson Motorcycles</h1>
+<div class="content">
+<img src="roadglide.jpg" width="200" align="right"/>
+Ted has owned three Harley-Davidson motorcycles: a heavily modified Sportster (<a href="/corvettes/">seen
+in this photo</a>), his current
+<a href="/harleys/2000-FLSTF-Fat-Boy/"> 2000 Fat Boy (FLSTF)</a> (below) and a more recently purchased <a href="/harleys/2009-FLTRSE-Road-Glide/">
+2009 Screamin' Eagle Road Glide</a> (right).&nbsp; 
+He has done some serious engine modifications to his Fat
+Boy including: larger cylinders and pistons (96 ci), 43mm Mikuni Carburetor,
+a fairly hot cam, Vance &amp; Hines Pipes and a bunch of chrome.
+<p>
+<img src="fatboy.jpg" width="200" align="left" style="margin-right: 6px;"/>
+The photo below left is with a number of co-workers from AOL while they were down at the 2008 Myrtle Beach Bike Week.&nbsp; 
+Ted is the guy on the far right propping up Dave in the black t-shirt.&nbsp;
+The photo directly to the right of that photo is also of a number of AOL co-workers from the 2009 Myrtle Beach Bike Week trip. You can read 
+<a href="http://wordpress.tedcahall.com/2009/05/10/myrtle-beach-bike-week-2009/">
+Ted's blog about their ride down to Bike Week for 2009</a>.
+</p>
+<p align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<img src="myrtle-beach-2008.jpg" width="200" height="150">
+<br/>Myrtle Beach Bike Week 2008
+</td>
+<td>
+<img src="myrtle-beach-2009.jpg" width="200" height="150">
+<br/>Myrtle Beach Bike Week 2009
+</td>
+</tr>
+</table>
+<p align="center">
+<!--#include virtual="/toy-menu.html"-->
+</p>
+
+</div>
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+
+</body>
+</html>
+
+
+

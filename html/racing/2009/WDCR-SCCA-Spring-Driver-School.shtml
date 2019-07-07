@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>Ted Cahall SCCA Spring Drivers School - cahall.com</title>
+<meta content="Ted Cahall Spring Drivers School SCCA Club Racing" name="description" />
+<meta content="Ted Cahall, Ted Cahall, Spring Drivers School, SCCA Club Racing" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<div class="large-content">
+Ted Cahall in the 2009 SCCA Spring Driving School
+</div>
+<div class="content">
+<a href="http://wordpress.tedcahall.com/2009/03/28/ted-cahall-attends-scca-driving-school-day-1/">
+Ted Cahall participated in the SCCA Spring Driving School</a>  (<a href="http://wordpress.tedcahall.com/2009/03/29/ted-cahall-at-scca-driving-school-day-2/">day
+2 blog post</a>) in preparation for the
+MARRS Series in 2009.&nbsp; Here is a photo of Ted with the Spec Miata he drove
+in driving school.&nbsp; Additional photos of Ted driving his Spec Miata in
+driving school are <a href="http://rides.webshots.com/album/570938956ffSYzw">here
+on Webshots</a>.
+<p align="center"><img border="0" src="IMG_0255-med.jpg" width="504" height="672"></p>
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+</p>
+</div>
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

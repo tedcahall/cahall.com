@@ -1,0 +1,97 @@
+<html>
+<head>
+<title>Ted Cahall Photo Albums - cahall.com</title>
+<meta content="Ted Cahall Photo Albums of his racing, motorcycles, cars, harley-davidsons" name="description" />
+<meta content="Ted Cahall, Ted Cahall, Photo Albums, SCCA" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("about");
+</script>
+
+<h1>Ted Cahall Webshots Photo Albums</h1>
+<div class="content">
+Ted Cahall manages <a href="http://community.webshots.com/user/tedcahall"> his photo albums</a> with
+Webshots.&nbsp;&nbsp;
+Years ago while at CNET, Ted helped rebuild the Webshots platform after CNET
+bought the company.&nbsp; Since AOL exited the photos business, this was the
+next best choice for his albums.&nbsp; Webshots is now owned by American
+Greetings.<p><b>2009 Events</b><br>
+In 2009 Ted Cahall attended a number of racing, motorcycling and other special events.  The year started off
+with <a href="http://rides.webshots.com/album/570203801aoQNxl"> some
+snowmobiling</a> followed by some <a href="/racing/">racing events</a>.&nbsp; First Ted attended the
+two day <a href="http://rides.webshots.com/album/570938956ffSYzw">SCCA Driving
+School</a>.&nbsp;
+He followed that with a quick warm up with the <a href="http://rides.webshots.com/album/570973657dwOhmd"> SCCA PDX</a> and the
+<a href="http://rides.webshots.com/album/571210646KGFtcV"> SCCA Club Trials</a>
+the day after.&nbsp; In April Ted completed his <a href="http://rides.webshots.com/album/572874381qUIFDM">first
+official SCCA sanctioned MARRS race.</a> 
+</p>
+<p>Ted was also lucky enough to be able to participate in a tour of the <a href="http://news.webshots.com/album/572149222JrkBqV">USS
+Truman</a> while it was at sea in the Atlantic Ocean.&nbsp; Aside from the <a href="http://news.webshots.com/album/572149222JrkBqV">stock
+Navy photographs of the USS Truman</a>, Ted took some <a href="http://rides.webshots.com/album/571813823HyWvNO">amazing
+pictures with is own camera</a> of jets taking off and landing on the
+Truman.&nbsp; The Navy was also kind enough to <a href="http://rides.webshots.com/album/572119310IpQkJu">take
+photos of Ted and the other participants</a> while they were on board. 
+</p>
+<p>In early May, Ted joined a number of co-workers and rode his new <a href="http://rides.webshots.com/album/571836300iUlefg">Harley-Davidson
+Road Glide</a> down to <a href="http://rides.webshots.com/album/572127671ToieSM">Myrtle
+Beach for Bike Week</a>.&nbsp; It was a great ride down and back. 
+</p>
+<p>In mid-May, Ted Cahall joined the team at &quot;World Class Driving&quot;,
+and had the pleasure of <a href="http://rides.webshots.com/album/572319674NEVrNd">driving
+five exotic sports cars</a> including an: Audi R8, Callaway C16 Corvette,
+Lamborghini LP 560, Ford GT, and Alfa-Romeo 8C.&nbsp; Later that same weekend,
+he <a href="http://rides.webshots.com/album/572382423whnNzv">participated in
+Rolling Thunder</a> and rode down to the capital with thousands of other
+Harley-Davidson motorcycle enthusiasts. 
+</p>
+<p>On May 30 and 31 Ted <a href="http://rides.webshots.com/album/572731797IDpQol">participated
+in MARSS4</a>. 
+</p>
+<p>Ted plans on attending a number of other racing events in 2009 so check back
+here occasionally to see Ted Cahall's latest albums on <a href="http://community.webshots.com/user/tedcahall">Webshots</a>. 
+</p>
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+<br>
+<!--#include virtual="/toy-menu.html"-->
+
+</p>
+</div>
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

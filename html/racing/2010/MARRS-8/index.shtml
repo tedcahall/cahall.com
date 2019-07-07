@@ -1,0 +1,92 @@
+<html>
+<head>
+<title>Ted Cahall - 2010 MARRS 8 @ NJMP - cahall.com</title>
+<meta content="Ted Cahall 2010 MARRS 8 - SCCA Club Racing at NJMP " name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2010 MARRS 8, SCCA Club Racing, NJMP" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>2010 MARRS 8 at NJMP</h1>
+<div class="content">
+<img src="ted-cahall-marrs8-2010.jpg" width="300" height="200" align="right" alt="Ted Cahall at MARRS 8"/>
+The Mid-Atlantic Road Racing Series (MARRS) held its eighth regional SCCA Club Racing event of the year on Saturday August 21st and Sunday August 22nd at the Thunderbolt track at New Jersey Motorsports Park (NJMP). 
+The <a href="http://www.meatheadracing.com/">Meathead Racing</a> team arrived in time for practice on Friday morning. The drivers making the journey to New Jersey were:
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>,
+<a href="http://meatheadracing.com/drivers.html#tim">Tim Jacobs</a>,
+<a href="http://meatheadracing.com/drivers.html#neil">Neil O'Rourke</a>,
+<a href="http://meatheadracing.com/drivers.html#chrisc">Chris Collins</a>, and
+<a href="http://meatheadracing.com/drivers.html#ted">Ted Cahall</a> for the SM class plus
+<a href="http://meatheadracing.com/drivers.html#steves">Steve Sturm</a> and 
+<a href="http://meatheadracing.com/drivers.html#ken">Ken Blum</a> for the SSM class.
+(<a href="http://www.facebook.com/album.php?aid=198174&id=662089592&l=d8296b4fd7">See photos</a>.)
+<p>
+After some interesting lessons in the decreasing radial turn, the drivers were all ready for Saturday's qualifying laps and the Saturday race.  Ted qualified 19th and took 17th place in the race after being 
+<a href="/racing/2010/MARRS-8/Spin-in-Octopus/">spun entering turn 9 (see video)</a>. Congratulations to <a href="http://meatheadracing.com/drivers.html#tim">Tim Jacobs</a> for his third place finish!
+<p>
+In the Sunday race, Ted started in 17th position and came in with a 13th place finish 
+<a href="/racing/2010/MARRS-8/Start-of-Race/">after a great jump at the start (see video)</a> and a good battle during the race.
+<p align="center">
+<img src="ted-cahall-79-marrs8.jpg" alt="Ted Cahall as #79">
+</p>
+<p>
+As always, a huge thank you goes out to 
+<a href="http://meatheadracing.com/crew.html#glenn">Glenn</a>, 
+<a href="http://meatheadracing.com/crew.html#sherise">Sherise</a>, 
+<a href="http://meatheadracing.com/crew.html#wendy">Wendy</a>, 
+<a href="http://meatheadracing.com/crew.html#karen">Karen</a>, 
+<a href="http://meatheadracing.com/drivers.html#grego">Greg Obadia</a>, 
+<a href="http://meatheadracing.com/drivers.html#gregg">Gregg Downer</a>, 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!
+</p>
+
+
+
+<p align="center">
+<!--#include virtual="/racing/2008/2008menu.html"-->
+<br>
+<!--#include virtual="/racing/2009/2009menu.html"-->
+<br>
+<!--#include virtual="/racing/2010/2010menu.html"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

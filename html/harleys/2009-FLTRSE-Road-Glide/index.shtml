@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Ted Cahall Harley-Davidson Road Glide - cahall.com</title>
+<meta content="Ted Cahall owns a 2009 Harley-Davidson Screamin' Eagle Road Glide.  He bought it from Patriot Harley-Davidson in Fairfax, VA.  It is Screamin' Eagle Orange." name="description" />
+<meta content="Ted Cahall, Ted Cahall, Harley-Davidson, Harley, Motorcycle, Road Glide, Screamin Eagle" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+
+<link href="/ddmenu/ddmenu.css" rel="stylesheet" type="text/css" />
+<script src="/ddmenu/ddmenu.js" type="text/javascript"></script>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/cahall-tab-menu.shtml"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("harleys");
+</script>
+<h1>Ted Cahall's&nbsp; 2009 Screamin' Eagle Road Glide (FLTRSE)</h1>
+<div class="content">
+Ted picked up his 2009 Screamin&#39; Eagle Road Glide just in time to <a href="http://wordpress.tedcahall.com/2009/05/10/myrtle-beach-bike-week-2009/"> ride down to Myrtle Beach for 2009 Bike
+Week</a>.
+The photo below is with &quot;Big&quot; John at Patriot Harley Davidson on the day he
+bought it.&nbsp; You can
+click on the photo to <a href="http://rides.webshots.com/album/571836300iUlefg"> see more shots of his Road
+Glide</a>.
+</p>
+<p>
+Ted is also the proud owner of a <a href="/harleys//2000-FLSTF-Fat-Boy/">2000 Fat Boy (FLSTF)</a>.
+</p>
+<p align="center">
+<a href="http://rides.webshots.com/photo/2658233470057109642aIMiCe">
+<img src="roadglide-lg.jpg" 
+alt="Ted Cahall takes delivery of his 2009 Road Glide from Big John at Patriot Harley"></a>
+<p align="center">
+<!--#include virtual="/toy-menu.html"-->
+</p>
+
+</div>
+<div class="footer-content">
+<!--#include virtual="/footer.html"--><!--#config timefmt="%m/%d/%y %H:%M:%S" -->Last Modified:<!--#echo var="LAST_MODIFIED"-->
+</div>
+
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+
+</body>
+</html>
+
+
+

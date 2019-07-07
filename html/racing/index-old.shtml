@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>Ted Cahall SCCA Club Racing and Drag Racing Events - cahall.com</title>
+<meta content="Ted Cahall SCCA Club Racing and Drag Racing Events. Ted Cahall races his Spec Miata and Z06 Corvettes in several road racing and high performance driving events each year." name="description" />
+<meta content="Ted Cahall, Ted Cahall, SCCA, racing, Corvette, Z06, SCCA" name="keywords" />
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+<!--#include virtual="/racing/year-submenu.html"-->
+<h1>Ted Cahall SCCA Club Racing <img src="2008/index.1.gif" width="61" height="25"></h1>
+<div class="content">
+Ted Cahall is a member of SCCA Club Racing and holds a National SCCA
+Club Racing License.&nbsp; He attended the 2010 SCCA National Championship Runoffs on September 20th through 24th.
+He <a href="http://wordpress.tedcahall.com/ted-cahall-spec-miata/">races a Spec Miata</a> 
+and is a proud member of the <a href="http://meatheadracing.com/drivers.html#ted">Meathead Racing</a> team.
+There are a number of SCCA races with the <a href="http://www.wdcr-scca.org/">Washington
+DC Region (WDCR) chapter of the SCCA</a> that are part of the
+Mid-Atlantic Road Racing Series (MARRS).&nbsp; The following pages include <a href="/racing/2010/">Ted's 2010 racing events</a> as well as highlight of his <a href="/racing/2009/">2009</a> and <a href="/racing/2009/">2008</a> Events. Ted's brother <a href="/racing/Larry-Cahall/">Larry Cahall</a> also raced in 2010!
+<p>
+Read more <a href="http://wordpress.tedcahall.com/about-ted-cahall/">about
+Ted's experiences with the SCCA</a>, his <a href="http://wordpress.tedcahall.com/ted-cahall-spec-miata/">Spec
+Miata</a>, and racing on his <a href="http://wordpress.tedcahall.com/">blog</a>
+and watch some of his <a href="http://www.youtube.com/tedcahall">racing videos
+on YouTube</a>.&nbsp; Click on the links below the photo to see information on events 
+Ted has attended.</p>
+<table width="98%" border="0">
+<tr>
+<td>
+<ul>
+<li><a href="/racing/2010/">2010 Race Events and Results</a></li>
+<li><a href="/racing/2010/MARRS-Points/">2010 MARRS Points and Fastest Lap Times by Race</a></li>
+<li><a href="/racing/2010/Non-MARRS-Results/">2010 Non-MARRS Race Results</a></li>
+<li><a href="/racing/Personal-Best-Lap-Times/">Personal Best Lap Times by Track</a></li>
+<li><a href="/racing/2009/">2009 Photos, Blog Posts and Events</a></li>
+<li><a href="/racing/2009/MARRS-Points/">2009 MARRS Points and Fastest Lap Times by Race</a></li>
+<li><a href="/racing/2008/">2008 Photos and Events</a></li>
+</ul>
+</td>
+<td align="right">
+<a href="http://www.wdcr-scca.org/ClubRacing/MARRS/2010EventSchedule/tabid/505/Default.aspx">
+<img src="2008/index.2.gif" width="85" height="39">
+</a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="http://inlinethumb06.webshots.com/38341/2738804880057109642S500x500Q85.jpg">
+</p>
+<p align="center">
+<!--#include virtual="/racing/years-menu.shtml"-->
+</p>
+</div>
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div> 
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
+
+
+

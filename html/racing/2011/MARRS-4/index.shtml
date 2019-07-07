@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Ted Cahall - 2011 MARRS 4 - cahall.com</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta content="Ted Cahall 2011 MARRS 4 - SCCA Club Racing at Summit Point" name="description" />
+<meta content="Ted Cahall, Ted Cahall, 2011 MARRS 4, SCCA Club Racing, Summit Point" name="keywords" />
+
+<script language="javascript">
+function set_tab(category) {
+    tab = document.getElementById("tab-" + category);
+    if (tab != null) {
+	tab.className = "tab-active";
+    }
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+
+<script src="http://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js" type="text/javascript"></script>
+<script src="/v/videopopup.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="/cahall.css" />
+<link rel="stylesheet" href="/v/videopopup.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+_uacct = "UA-2090470-3";
+urchinTracker();
+</script>
+<style type="text/css">#emurse_resume_badge_gogomonkey a {color: #3672a4;}#emurse_resume_badge_gogomonkey a:hover {color: #113249;}#emurse_resume_badge_gogomonkey td,#emurse_resume_badge_gogomonkey th { padding: 4px !important; }</style>
+</head>
+<body align="center">
+
+<div id="wrapper">
+
+<!--#include virtual="/tab-menu.html"-->
+<div id="wrapper-middle">
+
+<script language="javascript">
+set_tab("racing");
+</script>
+
+<h1>2011 MARRS 4 at Summit Point</h1>
+<div class="content">
+<img src="ted-cahall-marrs-4-stu-300.jpg" width="300" align="right" style="margin-left:6px;" alt="Ted Cahall starts MARRS 4 in STU">
+The Mid-Atlantic Road Racing Series (MARRS) held its fourth regional SCCA Club Racing event of the 2011 season on Saturday June 11th and Sunday June 12th at Summit Point Raceway in West Virginia.
+<p>
+<p>
+The Friday practice sessions started out well with Ted and Larry both getting in some good laps and preparing for the Saturday qualifying session and Qualifying race.  On the second to last practice session, Ted tried to make a low percentage pass on the outside of turn 5 and went off the track, over the berm, and almost through the fence
+(<a onClick="renderPopup('popupContact');return false"><strong>click to see video</strong></a>).  
+This caused quite a bit of damage to the right suspension including both hubs, both control arms, the front shock, etc. Ted finished Friday with his back-up car that he would also run in the STU race.
+</p><p>
+On Saturday, Ted ran in both the STU and SM classes.  He won the STU qualifying race out of three cars in the class.  This was a first win for Ted in any class in any kind of race.  He then proceeded to run a 1:28.904 and place 7th on the grid for SM, followed by a ninth place finish in the SM Qualifying race.
+</p><p>
+On Sunday, Ted won the STU class feature race and took his first victory lap of his life (see photo below).  Unfortunately, after starting in 9th place, Ted had trouble with the car that was damaged on Friday's off road excursion and could not run a lap faster than 1:31 (which is terrible for how well Ted had been running).  This left Ted in a battle with David Jacobs for 13th place.  He was barely able to hold David off for about 10 laps and finished 13th.
+</p>
+<p>
+Bob Cahall also raced in the STU race and finished 3rd of four racers and finished 25th in the SM race.
+</p><p>
+Larry only ran in SM and finished 21st - his best finish in MARRS.
+</p>
+
+<p align="center">
+<strong>
+See Facebook photos of
+<a href="http://www.facebook.com/media/set/?set=a.1885002879822.256955.1083893735">MARRS 4</a>
+courtesy of <a href="http://www.facebook.com/mazda.at.speed">Mike Kelley</a>.</strong>
+
+<img src="ted-cahall-wins-marrs-4-stu-797.jpg" width="797" alt="Ted Cahall wins 2011 MARRS 4 STU"><br/>
+Ted Cahall taking his first victory lap of his life! STU class at MARRS 4, 2011
+</p>
+<p>
+As always, a huge thank you goes out to 
+<a href="http://meatheadracing.com/crew.html#glenn">Glenn</a>, 
+<a href="http://meatheadracing.com/crew.html#sherise">Sherise</a>, 
+<a href="http://meatheadracing.com/crew.html#wendy">Wendy</a>, 
+<a href="http://meatheadracing.com/crew.html#karen">Karen</a>, 
+<a href="http://meatheadracing.com/drivers.html#mike">Mike Collins</a>
+and <a href="http://www.meatheadracing.com/">Meathead Racing</a> for their pit
+crew services!
+</p>
+
+<div id="popupContact">
+<a id="popupContactClose" class="popupContactCloseClass">x</a>
+<h1>Ted Cahall Jumps Berm Past Turn 5</h1>
+<p id="contactArea">
+<!-- text will render here...  jQuery video popup of Ted Cahall YouTube racing video of MARRS 1 -->
+<br/>
+<iframe width="640" height="390" src="http://www.youtube.com/embed/1MkLOed85cI?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+
+Press ESCAPE, Click on X (top-right) or Click Out from the popup to close the popup!
+</p>
+</div>
+
+<div id="backgroundPopup"></div>
+
+<p align="center">
+<!--#include virtual="/racing/2011/2011menu.shtml"-->
+<!--#include virtual="/racing/2011/prev-years-menu.shtml"-->
+</p>
+</div>
+
+<div class="footer-content">
+<!--#include virtual="/footer.html"-->Last Modified:<!--#config timefmt="%m/%d/%y %H:%M:%S" --><!--#echo var="LAST_MODIFIED"-->
+</div>
+</div>
+
+<div id="wrapper-bottom"></div>
+</div>
+</body>
+</html>
